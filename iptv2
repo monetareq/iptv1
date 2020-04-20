@@ -407,16 +407,22 @@ http://tvserver.roarzone.info:8082/55/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony Ten 1 
 http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1,TEN 1
+http://ok2.se:8000/8770F1Uw5c74YLtI0/5d01F1UI92GUFJNN8/4193
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",Sony Ten 2 
 http://tvserver.roarzone.info:8082/56/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony Ten 2
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony Ten 2
 http://175.41.46.16:8081/hls/7.m3u8
+#EXTINF:-1,TEN 2
+http://ok2.se:8000/8770F1Uw5c74YLtI0/5d01F1UI92GUFJNN8/4194
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony Ten 3
 http://tvserver.roarzone.info:8082/57/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony Ten 3
 http://175.41.46.16:8081/hls/8.m3u8
+#EXTINF:-1,TEN 3
+http://ok2.se:8000/8770F1Uw5c74YLtI0/5d01F1UI92GUFJNN8/4195
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony ESPN
 http://ddn.amrbd.com:8081/live/espnhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony ESPN
@@ -427,6 +433,8 @@ http://ddn.amrbd.com:8081/live/sonysix/playlist.m3u8
 http://tvserver.roarzone.info:8082/59/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony Six
 http://175.41.46.16:8081/hls/2.m3u8
+#EXTINF:-1,SONY SIX HD
+http://ok2.se:8000/8770F1Uw5c74YLtI0/5d01F1UI92GUFJNN8/193
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/961-9618402_live-on-vanggi-tv-star-sports-1-channel.png" group-title="Sports",STAR SPORTS 1
 http://175.41.46.16:8081/hls/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/961-9618402_live-on-vanggi-tv-star-sports-1-channel.png" group-title="Sports",STAR SPORTS 1
@@ -437,12 +445,18 @@ http://tvserver.roarzone.info:8082/60/index.m3u8
 http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/961-9618402_live-on-vanggi-tv-star-sports-1-channel.png" group-title="Sports",STAR SPORTS 2
 http://tvserver.roarzone.info:8082/61/index.m3u8
+#EXTINF:-1,STAR SPORTS 2 HD
+http://ok2.se:8000/8770F1Uw5c74YLtI0/5d01F1UI92GUFJNN8/202
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-select-hd1-large.png" group-title="Sports",STAR SPORTS SELECT 1
 http://175.41.46.16:8081/hls/4.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-select-hd1-large.png" group-title="Sports",STAR SPORTS SELECT 1
 http://tvserver.roarzone.info:8082/62/index.m3u8
 #EXTINF:-1 tvg-logo="https://jio-tv.com/uploads/tv_image/star-select-2.png" group-title="Sports",STAR SPORTS SELECT 2
 http://tvserver.roarzone.info:8082/63/index.m3u8
+#EXTINF:-1,WILLOW CRICKET HD
+http://ok2.se:8000/8770F1Uw5c74YLtI0/5d01F1UI92GUFJNN8/198
+#EXTINF:-1,WILLOW XTRA HD
+http://ok2.se:8000/8770F1Uw5c74YLtI0/5d01F1UI92GUFJNN8/9630
 #EXTINF:-1 tvg-logo="https://www.shaamtv.com/images/25.jpg" group-title="Sports",PTV Sports
 http://tvserver.roarzone.info:8082/65/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.shaamtv.com/images/25.jpg" group-title="Sports",PTV Sports
@@ -451,6 +465,8 @@ http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 http://tvserver.roarzone.info:8082/133/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",Bein Sports
 http://tvserver.roarzone.info:8082/73/index.m3u8
+#EXTINF:-1,*BEIN SPORTS HD
+http://ok2.se:8000/8770F1Uw5c74YLtI0/5d01F1UI92GUFJNN8/171
 #EXTINF:-1 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2017/07/DSPORTS-LOGO.jpg" group-title="Sports",D Sports
 http://tvserver.roarzone.info:8082/135/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg" tvg-country="IN" tvg-url="" group-title="Sport",D Sport
