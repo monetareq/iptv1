@@ -327,6 +327,8 @@ http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
 http://streamidvo.multitvsolution.in/DiscoverScienceHindi-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="INFOTAINMENT",ANIMAL PLANET 
 http://tvserver.roarzone.info:8082/45/index.m3u8
+#EXTINF:-1,TR: Animal Planet 
+http://edge.19741977.network:8080/5WRL0Ukavq/8z7N4qtrOw/42125
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="INFOTAINMENT",NAT GEO WILD
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="INFOTAINMENT",NAT GEO WILD
@@ -515,3 +517,126 @@ https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
 https://streamer-1.toffeelive.com/live/aljazeera_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="WORLD NEWS",DW
 https://itpolly.iptv.digijadoo.net/live/dw/playlist.m3u8
+#EXTINF:-1,Bein Sport 1HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/1
+#EXTINF:-1,Bein Sport 2HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/2
+#EXTINF:-1,Bein Sport 3HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/3
+#EXTINF:-1,Bein Sport 4HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/4
+#EXTINF:-1,Dubai Sport 1Hd
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/5
+#EXTINF:-1,Dubai Sport 2HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/6
+#EXTINF:-1,Dubai Sport 3HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/7
+#EXTINF:-1,Abu Dhabi Sport 1HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/8
+#EXTINF:-1,Abu Dhabi Sport 2HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/9
+#EXTINF:-1,Abu Dhabi Sport 3HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/10
+#EXTINF:-1,Abu Dhabi Sport 4HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/11
+#EXTINF:-1,Yas Sport
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/38
+#EXTINF:-1,Sharjah Sport
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/39
+#EXTINF:-1,KSA Sport 1HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/12
+#EXTINF:-1,KSA Sport 2HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/13
+#EXTINF:-1,Al-Kass Sport 1HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/34
+#EXTINF:-1,Al-Kass Sport 2HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/35
+#EXTINF:-1,Al-Kass Sport 4HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/36
+#EXTINF:-1,Al-Kass Sport 5HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/37
+#EXTINF:-1,Al-Fajer 1HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/15
+#EXTINF:-1,Al-Fajer 2HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/16
+#EXTINF:-1,MBC HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/73
+#EXTINF:-1,MBC 2HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/45
+#EXTINF:-1,MBC 3HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/74
+#EXTINF:-1,MBC 4HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/75
+#EXTINF:-1,MBC Max HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/46
+#EXTINF:-1,MBC Action HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/69
+#EXTINF:-1,MBC Bollywood HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/76
+#EXTINF:-1,MBC Drama HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/77
+#EXTINF:-1,MBC Masr 1HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/78
+#EXTINF:-1,MBC Masr 2HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/79
+#EXTINF:-1,Star Movies HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/47
+#EXTINF:-1,Star World HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/48
+#EXTINF:-1,Cinema 1HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/49
+#EXTINF:-1,Rotana Cinema HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/67
+#EXTINF:-1,Rotana AFLAM HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/70
+#EXTINF:-1,Rotana Drama HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/93
+#EXTINF:-1,Rotana Khalijia HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/94
+#EXTINF:-1,Rotana Classic HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/91
+#EXTINF:-1,Rotana Music HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/95
+#EXTINF:-1,Rotana Clip HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/92
+#EXTINF:-1,Rotana Kids HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/100
+#EXTINF:-1,Dubai
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/29
+#EXTINF:-1,Sama Dubai
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/28
+#EXTINF:-1,Dubai One
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/30
+#EXTINF:-1,Abu Dhabi
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/31
+#EXTINF:-1,Al-Emirate
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/32
+#EXTINF:-1,Abu Dhabi Drama
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/33
+#EXTINF:-1,Quran Al-Kareem
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/40
+#EXTINF:-1,Al-Arabia News
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/22
+#EXTINF:-1,EuroSport 1HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/63
+#EXTINF:-1,EuroSport 2HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/64
+#EXTINF:-1,Rai 3HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/59
+#EXTINF:-1,Rai 4HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/58
+#EXTINF:-1,Rai 5HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/57
+#EXTINF:-1,Rai Gulp
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/56
+#EXTINF:-1,Rai YoYo
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/60
+#EXTINF:-1,Rai Movie
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/55
+#EXTINF:-1,RAI PREMIUM
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/54
+#EXTINF:-1,Sport 1HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/111
+#EXTINF:-1,Brazzers HD
+http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/114
+
