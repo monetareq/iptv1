@@ -221,8 +221,8 @@ http://tvserver.roarzone.info:8082/82/index.m3u8
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/8d/ff/6a/8dff6a70400c2d3fbe815648ea02000d.jpg" group-title="Hindi MOVIES",SONY WAH
 http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://s3images.zee5.com/wp-content/uploads/sites/3/2019/01/And-Tv-logo.png" group-title="Hindi MOVIES",& Picture
-http://tvserver.roarzone.info:8082/77/index.m3u8
+#EXTINF:-1,And flix
+http://103.118.76.186:9981/stream/channelid/824242262
 #EXTINF:-1,tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi MOVIES",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi MOVIES",Zee Cinema
