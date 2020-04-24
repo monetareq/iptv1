@@ -218,7 +218,7 @@ http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/chunks.m3u
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/03/24/orange.jpg" group-title="বাংলা",Orange Bangla
 http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/60px-Sony_MAX_logo.svg.png" group-title="Hindi MOVIES",SONY MAX
-http://tvserver.roarzone.info:8082/82/index.m3u8 
+http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/05/28/Max_2_coming_soon.jpg" group-title="Hindi MOVIES",SONY MAX 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/8d/ff/6a/8dff6a70400c2d3fbe815648ea02000d.jpg" group-title="Hindi MOVIES",SONY WAH
@@ -228,7 +228,7 @@ http://103.118.76.186:9981/stream/channelid/824242262
 #EXTINF:-1,tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi MOVIES",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi MOVIES",Zee Cinema
-http://tvserver.roarzone.info:8082/9/index.m3u8
+http://103.115.159.37:8080/zeecinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi MOVIES",Zee Cinema
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg" group-title="Hindi MOVIES",Zee Bollywood
@@ -239,14 +239,16 @@ https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1582800787~exp=9007200837541778~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=3373fc972a6042253eb502f2a58546528e7a4c781c77664892a7a60985d54e3c&hdnts=st=1582800786~exp=1582800906~acl=/*~id=2515e6bc-88e0-4d01-80b8-c4a4ab64ff06~data=36.77.80.127~hmac=0f41a0b2c9d384b7b76cca94395bf0ebe4cc2e277c41eaeb7dbef2279a6550a7
 #EXTINF:-1,tvg-logo="https://img.favpng.com/3/13/5/zee-aflam-television-channel-zee-alwan-zee-tv-png-favpng-P5gC3TxaCxcBaA2T2J7JdSkik.jpg" group-title="Hindi MOVIES",Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8 
-#EXTINF:-1 tvg-logo="https://img.favpng.com/4/12/22/hbo-com-logo-television-show-png-favpng-Bvp10fkgax5PM2GYaJB5Rxa72.jpg" group-title="Hindi MOVIES",B4U KADAK
-http://tvserver.roarzone.info:8082/132/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.favpng.com/4/12/22/hbo-com-logo-television-show-png-favpng-Bvp10fkgax5PM2GYaJB5Rxa72.jpg" group-title="Hindi MOVIES",BFLIX MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1,tvg-logo="https://www.nicepng.com/png/detail/248-2482573_hindi-movies-hd-star-gold-channel-live-tv.png" group-title="Hindi MOVIES",Star Gold
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.nicepng.com/png/detail/248-2482573_hindi-movies-hd-star-gold-channel-live-tv.png" group-title="Hindi MOVIES",Star Gold
 http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.nicepng.com/png/detail/248-2482573_hindi-movies-hd-star-gold-channel-live-tv.png" group-title="Hindi MOVIES",Star Gold
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://www.nicepng.com/png/detail/248-2482573_hindi-movies-hd-star-gold-channel-live-tv.png" group-title="Hindi MOVIES",Star Gold
+http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="https://thelivenagpur.com/wp-content/uploads/2020/01/SG-Black-Text-SD-Logo.png" group-title="Hindi MOVIES",Star Gold 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png" group-title="Hindi MOVIES",B4U Plus
@@ -257,6 +259,8 @@ http://tvserver.roarzone.info:8082/124/index.m3u8
 https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ManoranjanMovies.in.png" group-title="Hindi MOVIES",Manoranjan
 https://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ManoranjanMovies.in.png" group-title="Hindi MOVIES",Manoranjan
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF: -1, MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
 #EXTINF: -1, GEM BOLLYWOOD
@@ -320,7 +324,7 @@ https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="INFOTAINMENT",HISTORY TV
 http://ddn.amrbd.com:8081/live/history/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/845/766/discovery-channel-logo-television-channel-discovery-networks-emea-discovery-channel-logo-png-clip-art.png" group-title="INFOTAINMENT",DISCOVERY
-http://tvserver.roarzone.info:8082/44/index.m3u8
+http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p1.m3u8
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/845/766/discovery-channel-logo-television-channel-discovery-networks-emea-discovery-channel-logo-png-clip-art.png" group-title="INFOTAINMENT",DISCOVERY
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/ID_Canada_Logo.png" group-title="INFOTAINMENT",DISCOVERY Investigation
@@ -389,12 +393,14 @@ http://tvserver.roarzone.info:8082/91/index.m3u8
 http://tvserver.roarzone.info:8082/92/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8c/23/ff/8c23ffe477717c21de730f66685c3972.png" group-title="Kids", NICK 
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8c/23/ff/8c23ffe477717c21de730f66685c3972.png" group-title="Kids", NICK 
+http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Kids", NICK SONIC 
 https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/4/16/5/logo-nick-jr-television-channel-nicktoons-png-favpng-Dh3GHuGV98STDe5LUTwSgAxHV.jpg" group-title="Kids", NICK JR
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/15/8/3/cartoon-network-logo-television-channel-png-favpng-L4026W61aJx8Hjw9Lq8TJLAqr.jpg" group-title="Kids", Cartoon Network
-http://tvserver.roarzone.info:8082/120/index.m3u8
+https://stream.simpaisa.com/pitvlive2/cartoon_240p/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids",Disnep Junior
 http://tvserver.roarzone.info:8082/125/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/1-13543_disney-channel-television-channel-the-walt-disney-company.png" group-title="Kids",Disnep Channel
@@ -515,130 +521,5 @@ https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="WORLD NEWS",Al Jazeera
 https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="WORLD NEWS",Al Jazeera 
-https://streamer-1.toffeelive.com/live/aljazeera_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="WORLD NEWS",DW
 https://itpolly.iptv.digijadoo.net/live/dw/playlist.m3u8
-#EXTINF:-1,Bein Sport 1HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/1
-#EXTINF:-1,Bein Sport 2HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/2
-#EXTINF:-1,Bein Sport 3HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/3
-#EXTINF:-1,Bein Sport 4HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/4
-#EXTINF:-1,Dubai Sport 1Hd
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/5
-#EXTINF:-1,Dubai Sport 2HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/6
-#EXTINF:-1,Dubai Sport 3HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/7
-#EXTINF:-1,Abu Dhabi Sport 1HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/8
-#EXTINF:-1,Abu Dhabi Sport 2HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/9
-#EXTINF:-1,Abu Dhabi Sport 3HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/10
-#EXTINF:-1,Abu Dhabi Sport 4HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/11
-#EXTINF:-1,Yas Sport
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/38
-#EXTINF:-1,Sharjah Sport
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/39
-#EXTINF:-1,KSA Sport 1HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/12
-#EXTINF:-1,KSA Sport 2HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/13
-#EXTINF:-1,Al-Kass Sport 1HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/34
-#EXTINF:-1,Al-Kass Sport 2HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/35
-#EXTINF:-1,Al-Kass Sport 4HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/36
-#EXTINF:-1,Al-Kass Sport 5HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/37
-#EXTINF:-1,Al-Fajer 1HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/15
-#EXTINF:-1,Al-Fajer 2HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/16
-#EXTINF:-1,MBC HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/73
-#EXTINF:-1,MBC 2HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/45
-#EXTINF:-1,MBC 3HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/74
-#EXTINF:-1,MBC 4HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/75
-#EXTINF:-1,MBC Max HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/46
-#EXTINF:-1,MBC Action HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/69
-#EXTINF:-1,MBC Bollywood HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/76
-#EXTINF:-1,MBC Drama HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/77
-#EXTINF:-1,MBC Masr 1HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/78
-#EXTINF:-1,MBC Masr 2HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/79
-#EXTINF:-1,Star Movies HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/47
-#EXTINF:-1,Star World HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/48
-#EXTINF:-1,Cinema 1HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/49
-#EXTINF:-1,Rotana Cinema HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/67
-#EXTINF:-1,Rotana AFLAM HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/70
-#EXTINF:-1,Rotana Drama HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/93
-#EXTINF:-1,Rotana Khalijia HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/94
-#EXTINF:-1,Rotana Classic HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/91
-#EXTINF:-1,Rotana Music HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/95
-#EXTINF:-1,Rotana Clip HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/92
-#EXTINF:-1,Rotana Kids HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/100
-#EXTINF:-1,Dubai
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/29
-#EXTINF:-1,Sama Dubai
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/28
-#EXTINF:-1,Dubai One
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/30
-#EXTINF:-1,Abu Dhabi
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/31
-#EXTINF:-1,Al-Emirate
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/32
-#EXTINF:-1,Abu Dhabi Drama
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/33
-#EXTINF:-1,Quran Al-Kareem
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/40
-#EXTINF:-1,Al-Arabia News
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/22
-#EXTINF:-1,EuroSport 1HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/63
-#EXTINF:-1,EuroSport 2HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/64
-#EXTINF:-1,Rai 3HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/59
-#EXTINF:-1,Rai 4HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/58
-#EXTINF:-1,Rai 5HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/57
-#EXTINF:-1,Rai Gulp
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/56
-#EXTINF:-1,Rai YoYo
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/60
-#EXTINF:-1,Rai Movie
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/55
-#EXTINF:-1,RAI PREMIUM
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/54
-#EXTINF:-1,Sport 1HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/111
-#EXTINF:-1,Brazzers HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/114
-
