@@ -248,6 +248,8 @@ http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.nicepng.com/png/detail/248-2482573_hindi-movies-hd-star-gold-channel-live-tv.png" group-title="Hindi MOVIES",Star Gold
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.nicepng.com/png/detail/248-2482573_hindi-movies-hd-star-gold-channel-live-tv.png" group-title="Hindi MOVIES",Star Gold
+http://137.59.155.253:8088/hls/Star_Gold.m3u8
+#EXTINF:-1,tvg-logo="https://www.nicepng.com/png/detail/248-2482573_hindi-movies-hd-star-gold-channel-live-tv.png" group-title="Hindi MOVIES",Star Gold
 http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="https://thelivenagpur.com/wp-content/uploads/2020/01/SG-Black-Text-SD-Logo.png" group-title="Hindi MOVIES",Star Gold 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
