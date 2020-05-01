@@ -419,12 +419,16 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
 #EXTINF:-1,ALFAJER TV 
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1,Filmbox Arthouse
-http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8 
-#EXTINF:-1,Filmbox Extra
-http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Filmbox Plus
-http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/HGmC8ea.png" tvg-country="IR" tvg-url="" group-title="Movies",24 Box TV
+http://51.158.190.97/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Movies",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-country="HK" tvg-url="" group-title="Movies",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/OUu7eyJ.png" tvg-country="IR" tvg-url="" group-title="Movies",Persiana 2 CINEMA
+http://51.15.193.156/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/hfia0wN.png" tvg-country="GR" tvg-url="" group-title="Movies",Wixlar
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1,MBC1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
 #EXTINF:-1,MBC 3
