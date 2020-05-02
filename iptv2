@@ -273,8 +273,6 @@ http://ddn.amrbd.com:8081/live/jalshamovies/playlist.m3u8
 http://103.58.73.26/streams/115/index.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-1024x486.png" group-title="Bangla MOVIES",ZEE BANGLA CINEMA
 http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-1024x486.png" group-title="Bangla MOVIES",ZEE BANGLA CINEMA
-https://live.bongobd.com/hls/md8z2iES7_zU7PxSDFQasw/1588453116/zee_bangla_cinema_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/60px-Sony_MAX_logo.svg.png" group-title="Hindi MOVIES",SONY MAX
 http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/60px-Sony_MAX_logo.svg.png" group-title="Hindi MOVIES",SONY MAX
@@ -399,6 +397,8 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="English MOVIES",HBO
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="English MOVIES",HBO
+http://tvserver2.roarzone.info:8081/42/index.m3u8?token=0fc0a754ac75a4ea6a37b897cf991ad68eba1cf7-d593ea4115b1871ef4a5c7adbeaf7179-1588462605-1588451805&remote=103.138.158.237
 #EXTINF:-1 ch-id="Fox Action Movies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="English MOVIES",Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="English MOVIES",WARNER TV
@@ -536,7 +536,7 @@ https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8c/23/ff/8c23ffe477717c21de730f66685c3972.png" group-title="Kids", NICK 
 http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8c/23/ff/8c23ffe477717c21de730f66685c3972.png" group-title="Kids", NICK
-https://live.bongobd.com/hls/raXyOH-FKSah7dg7K3rdxw/1588453416/nickelodeon_hi/index.m3u8
+http://tvserver3.roarzone.info:8081/55/index.m3u8?token=332e0a91347be13af29599c98496bbc4f01ca20d-bc709e2941e63abbcbb6f42aa9844fef-1588460191-1588449391&remote=103.138.158.249
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Kids", NICK SONIC 
 https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/4/16/5/logo-nick-jr-television-channel-nicktoons-png-favpng-Dh3GHuGV98STDe5LUTwSgAxHV.jpg" group-title="Kids", NICK JR
@@ -545,6 +545,8 @@ https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
 https://stream.simpaisa.com/pitvlive2/cartoon_240p/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/15/8/3/cartoon-network-logo-television-channel-png-favpng-L4026W61aJx8Hjw9Lq8TJLAqr.jpg" group-title="Kids", Cartoon Network
 https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://img.favpng.com/15/8/3/cartoon-network-logo-television-channel-png-favpng-L4026W61aJx8Hjw9Lq8TJLAqr.jpg" group-title="Kids", Cartoon Network
+http://tvserver2.roarzone.info:8081/79/index.m3u8?token=cef2e7a24ebe8dc14b48ff82286188c7d63a2f78-c897031f3619b851ef36e1b1e7903b45-1588462810-1588452010&remote=103.138.158.237
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/MBC_3_Transparent_Background_Logo.png" group-title="Kids",MBC 3
 http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/12-126872_sony-pictures-networks-india-today-announced-the-launch.png" group-title="Kids",SONY YAY
