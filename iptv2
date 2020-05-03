@@ -448,6 +448,8 @@ http://cdn.cvattv.com.ar/live/c2live/History_2/verimatrix_rotating/History_2.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="INFOTAINMENT",SONY BBC EARTH
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/845/766/discovery-channel-logo-television-channel-discovery-networks-emea-discovery-channel-logo-png-clip-art.png" group-title="INFOTAINMENT",DISCOVERY
+http://103.231.228.229/hls/HDMI-EARTEL4.m3u8
+#EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/845/766/discovery-channel-logo-television-channel-discovery-networks-emea-discovery-channel-logo-png-clip-art.png" group-title="INFOTAINMENT",DISCOVERY
 http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p1.m3u8
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/845/766/discovery-channel-logo-television-channel-discovery-networks-emea-discovery-channel-logo-png-clip-art.png" group-title="INFOTAINMENT",DISCOVERY
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
@@ -560,7 +562,7 @@ http://175.41.46.16:8081/hls/6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 
 http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 
-http://ok2.se:8000/8770F1Uw5c74YLtI0/5d01F1UI92GUFJNN8/4193
+http://103.205.133.14/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
 http://103.58.73.26/streams/105/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",Sony Ten 2 
@@ -570,7 +572,7 @@ http://175.41.46.16:8081/hls/7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",Sony Ten 2 
 https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",Sony Ten 2 
-http://ok2.se:8000/8770F1Uw5c74YLtI0/5d01F1UI92GUFJNN8/4194
+http://103.205.133.14/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_439/PORTRAIT/fwd2lXFg.png" group-title="Sports",Sony Ten 3
 http://103.205.133.19/hls/ten3.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_439/PORTRAIT/fwd2lXFg.png" group-title="Sports",Sony Ten 3
@@ -578,7 +580,7 @@ http://175.41.46.16:8081/hls/8.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_439/PORTRAIT/fwd2lXFg.png" group-title="Sports",Sony Ten 3
 https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_439/PORTRAIT/fwd2lXFg.png" group-title="Sports",Sony Ten 3
-http://ok2.se:8000/8770F1Uw5c74YLtI0/5d01F1UI92GUFJNN8/4195
+http://103.205.133.14/hls/ten3.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_439/PORTRAIT/fwd2lXFg.png" group-title="Sports",Sony Ten 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/1200px-Sony_ESPN_logo.svg.png" group-title="Sports",Sony ESPN
@@ -673,12 +675,8 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 https://stream.simpaisa.com/pitvlive2//madina_360p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="Religious",Peace TV 
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="Religious",Peace TV 
-http://tvserver.roarzone.info:8082/52/index.m3u8
 #EXTINF:-1 tvg-logo="https://bdlivenow.com/wp-content/uploads/2017/10/iqra-tv-2.png" group-title="Religious",IQRA TV 
 https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
-#EXTINF:-1 tvg-logo="https://bdlivenow.com/wp-content/uploads/2017/10/iqra-tv-2.png" group-title="Religious",IQRA TV 
-http://tvserver.roarzone.info:8082/109/index.m3u8
 #EXTINF:-1,tvg-logo="https://img.favpng.com/6/20/17/bbc-world-news-news-broadcasting-television-channel-png-favpng-xTV7PXzuk76bADkFVmuvUUh1C.jpg" group-title="WORLD NEWS",BBC WORLD
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="WORLD NEWS",CNN
