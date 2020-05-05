@@ -569,6 +569,8 @@ https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdn
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Kids",BOOMERANG
 https://livecdn.fptplay.net/qnetlive/boomerang_1000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Kids",BOOMERANG
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1  
 http://103.205.133.19/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 
