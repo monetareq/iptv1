@@ -309,6 +309,8 @@ https://bracnet.iptv.jadoodigital.com/live/jalsha_movies/chunks.m3u8
 http://ddn.amrbd.com:8081/live/jalshamovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/535/809/286/jalsha-movies-star-jalsha-television-show-star-india-sitarhd.jpg" group-title="Bangla MOVIES",JALSHA MOVIE
 http://103.58.73.26/streams/115/index.m3u8
+#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/535/809/286/jalsha-movies-star-jalsha-television-show-star-india-sitarhd.jpg" group-title="Bangla MOVIES",JALSHA MOVIE
+http://175.41.46.16:8081/hls/4.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-1024x486.png" group-title="Bangla MOVIES",ZEE BANGLA CINEMA
 http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-1024x486.png" group-title="Bangla MOVIES",ZEE BANGLA CINEMA
