@@ -520,6 +520,12 @@ https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.nicepng.com/png/detail/248-2482573_hindi-movies-hd-star-gold-channel-live-tv.png" group-title="Hindi MOVIES",Star Gold HD
 https://robi.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.nicepng.com/png/detail/248-2482573_hindi-movies-hd-star-gold-channel-live-tv.png" group-title="Hindi MOVIES",Star Gold 
+https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://www.nicepng.com/png/detail/248-2482573_hindi-movies-hd-star-gold-channel-live-tv.png" group-title="Hindi MOVIES",Star Gold 
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://www.nicepng.com/png/detail/248-2482573_hindi-movies-hd-star-gold-channel-live-tv.png" group-title="Hindi MOVIES",Star Gold 
+https://robi.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://www.nicepng.com/png/detail/248-2482573_hindi-movies-hd-star-gold-channel-live-tv.png" group-title="Hindi MOVIES",Star Gold 
 http://137.59.155.253:8088/hls/Star_Gold.m3u8
 #EXTINF:-1,tvg-logo="https://www.nicepng.com/png/detail/248-2482573_hindi-movies-hd-star-gold-channel-live-tv.png" group-title="Hindi MOVIES",Star Gold
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
@@ -551,6 +557,12 @@ https://robi.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 https://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
 #EXTINF:-1,tvg-logo="https://static.iptv-epg.com/in/ManoranjanMovies.in.png" group-title="Hindi MOVIES",Manoranjan
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1,tvg-logo="https://pay2easy.com/payapp/uploads/9192-Enterr10.png" group-title="Hindi MOVIES",ENTER 10
+https://itpolly.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://pay2easy.com/payapp/uploads/9192-Enterr10.png" group-title="Hindi MOVIES",ENTER 10
+https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://pay2easy.com/payapp/uploads/9192-Enterr10.png" group-title="Hindi MOVIES",ENTER 10
+https://robi.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png" group-title="Hindi MOVIES",BFLIX MOVIE
 http://103.205.133.42:1935/local/bflix_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/1/21/22/mbc-bollywood-television-channel-logo-png-favpng-Dq3jrGkr5azGRmgNZQqhxPxM9.jpg" group-title="Hindi MOVIES",MBC Bollywood
@@ -579,6 +591,8 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 http://103.231.228.229/hls/HDMI-EARTEL3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="English MOVIES",HBO
 https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="English MOVIES",HBO
+http://khulnalive.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="English MOVIES",HBO HITS
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/145.m3u8
 #EXTINF:-1 ch-id="Fox Action Movies" tvg-logo="https://brandslogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="English MOVIES",Fox Movies
