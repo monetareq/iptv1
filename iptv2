@@ -499,6 +499,14 @@ https://robi.iptv.digijadoo.net/live/star_world/chunks.m3u8
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/152.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="English Entertainment",STAR WORLD HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1 tvg-logo="https://images.wikia.com/logopedia/images/d/dc/Comedy_Central_2011_stacked.png" group-title="English Entertainment",Comedy Central
+https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://images.wikia.com/logopedia/images/d/dc/Comedy_Central_2011_stacked.png" group-title="English Entertainment",Comedy Central
+https://triangle.iptv.digijadoo.net/live/diva/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://images.wikia.com/logopedia/images/d/dc/Comedy_Central_2011_stacked.png" group-title="English Entertainment",Comedy Central
+https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://images.wikia.com/logopedia/images/d/dc/Comedy_Central_2011_stacked.png" group-title="English Entertainment",Comedy Central
+https://robi.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/535/809/286/jalsha-movies-star-jalsha-television-show-star-india-sitarhd.jpg" group-title="Bangla MOVIES",JALSHA MOVIE
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/535/809/286/jalsha-movies-star-jalsha-television-show-star-india-sitarhd.jpg" group-title="Bangla MOVIES",JALSHA MOVIE
@@ -703,14 +711,6 @@ https://edge01.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
 https://robi.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1200px-Rai_Movie_-_Logo_2017.svg.png" group-title="English MOVIES",RAI PREMIUM
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.wikia.com/logopedia/images/d/dc/Comedy_Central_2011_stacked.png" group-title="English MOVIES",Comedy Central
-https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://images.wikia.com/logopedia/images/d/dc/Comedy_Central_2011_stacked.png" group-title="English MOVIES",Comedy Central
-https://triangle.iptv.digijadoo.net/live/diva/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://images.wikia.com/logopedia/images/d/dc/Comedy_Central_2011_stacked.png" group-title="English MOVIES",Comedy Central
-https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://images.wikia.com/logopedia/images/d/dc/Comedy_Central_2011_stacked.png" group-title="English MOVIES",Comedy Central
-https://robi.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/1200px-TLC-HD-Logo_2016.svg.png" group-title="INFOTAINMENT",TLC HD
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/1200px-TLC-HD-Logo_2016.svg.png" group-title="INFOTAINMENT",TLC HD
