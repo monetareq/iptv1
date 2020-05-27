@@ -198,6 +198,8 @@ http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/159.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangla",MOHONA TV 
 https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangla",MOHONA TV 
+http://ddn.amrbd.com:8081/live/mytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangla",MOHONA TV 
 https://triangle.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangla",MOHONA TV 
 https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
@@ -981,6 +983,8 @@ http://ddn.amrbd.com:8081/live/starsports1/playlist.m3u8
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/100.m3u8
 #EXTINF:-1,tvg-logo="https://i.pinimg.com/originals/27/a5/3a/27a53a041be3eb0b8574c267e071a1ff.png" group-title="Sports",Star Sports 2
 http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",Star Sports SELECT 2
+http://ddn.amrbd.com:8081/live/select1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://placeit-assets1.s3-accelerate.amazonaws.com/custom-pages/cricket-logo-maker-lp/All-Star-Cricket-Team-Logo-Maker-for-Cricket-Teams.png" group-title="Sports",ADS SPORTS CRICKET
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.shaamtv.com/images/25.jpg" group-title="Sports",PTV Sports
