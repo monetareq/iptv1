@@ -317,6 +317,8 @@ http://ctgiptv.kitv.live:1935/live/test/test1/86.ts
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/141.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-picture-logo-300x300.jpg" group-title="Hindi MOVIES",& PICTURE
 http://ddn.amrbd.com:8081/live/andpicture-26/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-flix-hd-logo-300x300.jpg" group-title="English MOVIES",& FLIX
+http://ddn.amrbd.com:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English MOVIES",SONY PIX
 http://ctgiptv.kitv.live:1935/live/test/test1/41.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English MOVIES",SONY PIX HD
