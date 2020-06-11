@@ -225,7 +225,7 @@ https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/169.m3u8
 #EXTINF:-1 tvg-logo="https://bd-career.org/wp-content/uploads/2018/01/Duronto-TV-Jobs-Circular.jpg" group-title="IBOX",DURANTO TV
 http://103.135.208.14/live/ibox/bd/64.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" group-title="Bangla",BPKTV TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" group-title="BPKTV",BANGLA TV
 http://103.141.66.36/bpk-tv/10032/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://bijoy.tv/wp-content/uploads/2019/05/logo.png" group-title="AMRBD",BIJOY TV
 http://ddn.amrbd.com:8081/live/bijoytv/playlist.m3u8
@@ -515,7 +515,7 @@ https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u
 https://itpolly.iptv.digijadoo.net/live/care_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://mk0ehealtheletsj3t14.kinstacdn.com/wp-content/uploads/2013/08/Care-World-Logo1.jpg" group-title="BPKTV",CARE WORLD
 http://103.141.66.36/bpk-tv/10176/default/manifest.mpd
-#EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/845/766/discovery-channel-logo-television-channel-discovery-networks-emea-discovery-channel-logo-png-clip-art.png" group-title="INFOTAINMENT",DISCOVERY HD
+#EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/845/766/discovery-channel-logo-television-channel-discovery-networks-emea-discovery-channel-logo-png-clip-art.png" group-title="KITV",DISCOVERY HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/167.m3u8
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/845/766/discovery-channel-logo-television-channel-discovery-networks-emea-discovery-channel-logo-png-clip-art.png" group-title="AMRBD",DISCOVERY
 http://ddn.amrbd.com:8081/live/discovery-12/playlist.m3u8
@@ -543,7 +543,7 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 http://103.135.208.14/live/ibox/bd/61.m3u8
 #EXTINF:-1 tvg-logo="https://www.screenafrica.com/wp-content/uploads/2018/10/BBCLifestyle_Logo_Master_Gold_RGB-696x492.jpg" group-title="ITPOLLY",BBC LIFESTYLE
 https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.screenafrica.com/wp-content/uploads/2018/10/BBCLifestyle_Logo_Master_Gold_RGB-696x492.jpg" group-title="KAITV",BBC LIFESTYLE
+#EXTINF:-1 tvg-logo="https://www.screenafrica.com/wp-content/uploads/2018/10/BBCLifestyle_Logo_Master_Gold_RGB-696x492.jpg" group-title="KITV",BBC LIFESTYLE
 http://iptv.kitv.live:1935/live/Shari/MTV-P/155.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/FYI_TV18_logo.png" group-title="ITPOLLY",FYI TV18
 https://itpolly.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
