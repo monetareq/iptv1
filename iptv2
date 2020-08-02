@@ -385,9 +385,9 @@ https://itpolly.iptv.digijadoo.net/live/times_now/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp4snOO.jpg" group-title="MOVIE PLEX",KOLI 2.0 (2018)
 http://server2.ftpbd.net/FTP-2/Bangla%20Collection/BANGLA/Web%20Series/Koli%202.0%20%5B2018%5D%20Bengali%20Movie%201080p/Koli%202.0%20%5B2018%5D%20Bengali%20Movie%201080p%20UNTOUCHED%20-%20Webdl%20x%20264%20AVC%20-%20AAC%20-%20DD%202.0%20By%20Team%20Techbangla%20Xclusive.mp4
 #EXTINF:-1 tvg-logo="https://indiaincgroup.com/wp-content/uploads/2020/05/Taking-Bollywood-films-direct-to-digital-release.jpg" group-title="MOVIE PLEX",GHOOMKETU (2020)
-http://data.kenecolor.com/data/disk1/disk1/NEW%20Hindi%20Movies/Ghoomketu.2020.1080p.ZEE5.WEB-DL.AAC.2.0.x264%20%5BDDN%5D/Ghoomketu.2020.1080p.ZEE5.WEB-DL.AAC.2.0.x264-Telly.mp4
+ftp://10.10.10.10/Ghoomketu (2020) 1080p WEB DL - AVC - AAC - E-Subs - DUSIcTv.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Malang_film_poster.jpg/220px-Malang_film_poster.jpg" group-title="MOVIE PLEX",Malang (2020)
-http://data.kenecolor.com/data/disk1/disk1/NEW%20Hindi%20Movies/Malang%202020%20Hindi%201080p%20WEB-DL%20x264%206CH%202.2GB%20MSubs%20%5BDDN%5D/Malang%202020%20Hindi%201080p%20WEB-DL%20x264%206CH%202.2GB%20MSubs%20%5BDDN%5D.mp4
+ftp://10.10.10.10/Malang (2020) Hindi (UHD 2160p SDR x265 10bit DDP 5.1) - [Musafirboy].mp4
 #EXTINF:-1 tvg-logo="https://a10.gaanacdn.com/gn_img/albums/qa4WEkqKP1/a4WEJGddbP/size_m.jpg" group-title="MOVIE PLEX",SRABONER DHARA (2020) [BENGALI]
 http://data.kenecolor.com/data/disk1/disk1/New%20Bengali%20Movies/Sraboner%20Dhara%20%282020%29%20Bengali%201080p%20WEBRip%20x264%20AAC%20%5BDDN%5D/Sraboner%20Dhara%20%282020%29%20Bengali%201080p%20WEBRip%20x264%20AAC%20%5BDDN%5D.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LDirQBvwx7g/maxresdefault.jpg" group-title="MOVIE PLEX",ASUR (2020) [BENGALI]
@@ -429,9 +429,9 @@ http://data.kenecolor.com/data/disk1/disk1/NEW%20ENGLISH%20MOVIES/Brahms.The.Boy
 #EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Cryptoftearsteaser.jpg" group-title="MOVIE PLEX",MISS FISHER & THE CRYPT OF TEARS (2020)
 http://data.kenecolor.com/data/disk1/disk1/NEW%20ENGLISH%20MOVIES/Miss.Fisher.and.the.Crypt.of.Tears.2020.1080p.BluRay.H264.AAC%20%5BDDN%5D/Miss.Fisher.and.the.Crypt.of.Tears.2020.1080p.BluRay.H264.AAC%20%5BDDN%5D.mp4
 #EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Extraction_%282020_film%29.png",EXTRACTION (2020) Hindi
-http://data.kenecolor.com/data/disk1/disk1/NEW%20ENGLISH%20MOVIES/Extraction.2020.1080p.WEBRip.x264%20%5BDDN%5D/Extraction.2020.1080p.WEBRip.x264%20%5BDDN%5D.mp4
+ftp://10.10.10.10/Extraction 2020 1080P NF WEBRiP x265 DD 5.1 HEVC ESUB [shadow].mp4
 #EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Bloodshot_-_official_film_poster.jpeg",Bloodshot (2020)
-http://data.kenecolor.com/data/disk1/disk1/NEW%20ENGLISH%20MOVIES/Bloodshot.2020.1080p.BluRay.H264.AAC%20%5BDDN%5D/Bloodshot.2020.1080p.BluRay.H264.AAC%20%5BDDN%5D.mp4
+ftp://10.10.10.10/Bloodshot 2020 1080P WEBRiP x265 DD 5.1 HEVC [shadow].mp4
 #EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://www.reelviews.net/resources/img/posters/thumbs/call_of_the_wild.jpg",THE CALL OF THE WILD (2020)
 http://data.kenecolor.com/data/disk1/disk1/NEW%20ENGLISH%20MOVIES/The.Call.Of.The.Wild.2020.1080p.BluRay.x264.AAC5.1-%5BDDN%5D/The.Call.Of.The.Wild.2020.1080p.BluRay.x264.AAC5.1-%5BDDN%5D.mp4
 #EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNlMzljOWEtMjdiYS00ZjQwLTg2M2UtMTYwNDgyZjQ4MDk5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",THE WILLOUGHBYS (2020)
@@ -454,6 +454,32 @@ http://data.kenecolor.com/data/disk1/disk1/NEW%20Hindi%20Movies/Hacked%20%282020
 http://media.ctgfun.com/media/disk3/Hindi%20Movies/2020/LOVE%20AAJ%20KAL%20%282020%29%20Hindi%20TRUE%20WEB-DL%20-%201080p%20-%20%28DD%205.1%20-%20640Kbps%29%20ESub%20%5BDDN%5D/LOVE%20AAJ%20KAL%20%282020%29%20Hindi%20TRUE%20WEB-DL%20-%201080p%20-%20%28DD%205.1%20-%20640Kbps%29%20ESub%20%5BDDN%5D.mkv
 #EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://miro.medium.com/max/2560/1*0btTDY_bxGsjvNuBWoeapg.jpeg",The Love Birds (2020)
 ftp://10.10.10.10/The.Lovebirds.2020.1080p.WEBRip.x265-RARBG.mp4
+#EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://i2.wp.com/moviesandmania.com/wp-content/uploads/2020/05/QrGG6RcQ.jpeg?resize=370%2C555&ssl=1",fast and fierce death race (2020)
+ftp://10.10.10.10/fast.and.fierce.death.race.2020.1080p.web.dl.dd5.1.hevc.x265.rmteam.mp4
+#EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://pbs.twimg.com/media/EXLdXYXU0AE9_OO.jpg",nilanjana (2020) Bangla
+ftp://10.10.10.10/Nilanjana (2020) Bengali [720p] [HDRip][ x264][AAC].mkv
+#EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://images.moviesanywhere.com/65f981fdee4a258059c59f8e5747ca16/6b675c93-2301-4ec2-a64b-ede90be8f323.jpg",Monos (2019) 
+ftp://10.10.10.10/Monos.2019.1080p.WEBRip.x264-.mp4
+#EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRlZDRhZWMtZmFlMC00ODllLTk2ZDEtZjQ5ZGI3N2E0MmFjXkEyXkFqcGdeQXVyNTQ2OTY5NDM@._V1_.jpg",Har Kisse Ke Hisse Kaamyaab(2020) 
+ftp://10.10.10.10/Har Kisse Ke Hisse Kaamyaab 2020 Hindi 1080P Itunes WEBRiP x265 HEVC AAC ESUB [shadow].mp4
+#EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_onward_19024_dbb512d5.jpeg",Onward (2020)
+ftp://10.10.10.10/Onward.2020.1080p.10Bit.WEBRip.HEVC.x265.DD5.1.DSyS.mp4
+#EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://i.pinimg.com/564x/ef/79/e3/ef79e3a97061003c98a9219146054f5b.jpg",Red.Shoes.And.The.Seven.Dwarfs (2019)
+ftp://10.10.10.10/Red.Shoes.And.The.Seven.Dwarfs.2019.720p.10bit.BluRay.6CH.x265.HEVC-PSA.mp4
+#EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2019/12/Birds-of-Prey-poster-s346356796-1-600x889.jpg",Birds.Of.Prey.And.The.Fantabulous.Emancipation.Of.One.Harley.Quinn (2020)
+ftp://10.10.10.10/Birds.Of.Prey.And.The.Fantabulous.Emancipation.Of.One.Harley.Quinn.2020.1080P.HC.HDRip.HEVC.x265.DD2.0.DSyS.mp4
+#EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU3ZTI1OTktNjVkNy00OWEzLWIyNzAtMWQ5YjRkZDU1ZjAxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",Guns.Akimbo (2019)
+ftp://10.10.10.10/Guns.Akimbo.2019.1080P.WebRip.HEVC.DD5.1.H265-thEo.mp4
+#EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://cdn.shopify.com/s/files/1/1183/1920/files/64ECF65E-5BEA-43A3-915A-B98E8888978F_large.jpeg?v=1585647922",Spenser.Confidential(2020)
+ftp://10.10.10.10/Spenser.Confidential.2020.1080P.NF.WebRip.HEVC.DD5.1.H265-thEo.mp4
+#EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg1MzM3OWUtNjgzZC00NjMzLWE1NzAtOThiMDgyMjhhZDBhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",Spies.In.Disguise (2019)
+ftp://10.10.10.10/Spies.In.Disguise.2019.1080P.BluRay.HEVC.DD5.1.H265-thEo.mp4
+#EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Ip_Man_4_poster.png/220px-Ip_Man_4_poster.png",Ip.Man.4 (2019)
+ftp://10.10.10.10/Ip.Man.4.2019.4K.WEB-DL.H265.AAC.2Audio-PTerWEB.mp4
+#EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDc5ZmQ3MzUtYTY4OS00YTE3LTkwNmItNmQ2ODIwNWM3MzY1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",Tanhaji The Unsung Warrior (2020)
+ftp://10.10.10.10/Tanhaji The Unsung Warrior (2020) Hindi Original 1080p Hotstar WEB-DL AAC x264 ESub - Shadow.mp4
+#EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",Bad.Boys.For.Life (2020)
+ftp://10.10.10.10/Bad.Boys.For.Life.2020.1080P.WebRip.HEVC.DD5.1.H265-thEo.mp4
 #################### BANGLA SERIES ###############################
 #EXTINF:-1 tvg-logo="http://ihub.live/uploads/video_thumb/11024.jpg" group-title="HOICHOI",Ekattor (2020) S01 | E01
 http://cdn.ihub.live:8080/download/tv-series/Ekattor%20%282020%29/Season%201/Ekattor%20-%201x1.mp4
