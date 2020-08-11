@@ -27,6 +27,8 @@ https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 http://103.214.202.218:8081/live/channeli/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="ITPOLLY",Nagorik TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="ITPOLLY",Nagorik TV
+http://45.249.187.238:8081/hls/new16.m3u8
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="AMRBD",Nagorik TV
 http://103.214.202.218:8081/live/nagorik/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-rtv-png-9.png" group-title="ITPOLLY",RTV
@@ -141,6 +143,8 @@ http://103.141.66.36/bpk-tv/10112/default/manifest.mpd
 http://103.214.202.218:8081/live/sony-40/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Sony_SAB_%28TV%29.png/100px-Sony_SAB_%28TV%29.png" group-title="AMRBD",SONY SAB
 http://103.214.202.218:8081/live/sonysab/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Sony_SAB_%28TV%29.png/100px-Sony_SAB_%28TV%29.png" group-title="ITPOLLY",SONY SAB
+http://45.249.187.238:8081/hls/tsl-4.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="ITPOLLY",COLORS HD 
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="ITPOLLY",COLORS 
@@ -219,6 +223,8 @@ https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
 http://103.141.66.36/bpk-tv/10137/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-picture-logo-300x300.jpg" group-title="AMRBD",& PICTURE
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-picture-logo-300x300.jpg" group-title="AMRBD",& PICTURE
+http://45.249.187.238:8081/hls/tsl-2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-picture-logo-300x300.jpg" group-title="BPKTV",& PICTURE
 http://103.141.66.36/bpk-tv/10190/default/manifest.mpd
 #EXTINF:-1,tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/zee-cafe-logo.jpg" group-title="AMRBD",ZEE CAFE HD
@@ -226,13 +232,21 @@ http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/zee-cafe-logo.jpg" group-title="BPKTV",ZEE CAFE
 http://103.141.66.36/bpk-tv/10229/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-flix-hd-logo-300x300.jpg" group-title="AMRBD",& FLIX
+http://45.249.187.238:8081/hls/new21.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-flix-hd-logo-300x300.jpg" group-title="AMRBD",& FLIX
 http://103.214.202.218:8081/live/andflix-29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-flix-hd-logo-300x300.jpg" group-title="BPKTV",& FLIX
 http://103.141.66.36/bpk-tv/10304/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="AMRBD",& Prive HD
 http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/movie-star-png.png" group-title="ITPOLLY",Star Movies HD
+http://45.249.187.238:8081/hls/tsl-8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="ITPOLLY",HBO
+http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="ITPOLLY",HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.ranklogos.com/wp-content/uploads/2012/04/utv-action-logo-1.jpg" group-title="IBOX",UTV ACTION
+http://45.249.187.238:8081/hls/tsl-7.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mra6rocKYmM/U-PMvYqzsHI/AAAAAAAAA4E/Wh03-dcDUCg/s1600/227_lotus-macau_300_300.png" group-title="ITPOLLY",MACAU LOTUS
 https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="ITPOLLY",MOVIES NOW
@@ -271,6 +285,8 @@ http://103.141.66.36/bpk-tv/10176/default/manifest.mpd
 http://103.214.202.218:8081/live/discovery-12/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="AMRBD",ANIMAL PLANET 
 http://103.214.202.218:8081/live/animalplanet-13/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="AMRBD",ANIMAL PLANET 
+http://45.249.187.238:8081/hls/tsl-1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="ITPOLLY",NAT GEO WILD
 https://edge01.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="AMRBD",NAT GEO WILD
