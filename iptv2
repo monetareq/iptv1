@@ -138,7 +138,7 @@ http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Live Tv",Sony Pix
 http://45.249.187.238:8081/hls/new21.m3u8
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/movie-star-png.png" group-title="Live Tv",Star Movies HD
-http://45.249.187.238:8081/hls/tsl-4.m3u8
+http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Live Tv",HBO
 http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF:-1,tvg-logo="https://www.ranklogos.com/wp-content/uploads/2012/04/utv-action-logo-1.jpg" group-title="Live Tv",UTV ACTION
