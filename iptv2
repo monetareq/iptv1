@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jagonews24.com/media/imgAllNew/BG/2019November/btv-b-20200504100045.jpg" group-title="Live Tv",BTV 
-http://45.249.187.238:8081/hls/new21.m3u8
+http://45.249.187.238:8081/hls/new24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
@@ -29,6 +29,8 @@ http://103.214.202.218:8081/live/satv-22/chunks.m3u8
 http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.allbdlinks.com/2016/09/03/1472897044.jpg" group-title="Live Tv",News 24
 http://45.249.187.238:8081/hls/live4.m3u8
+#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Live Tv",Nagorik TV
+http://45.249.187.238:8081/hls/new16.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="Live Tv",ATN BANGLA
 http://103.214.202.218:8081/live/atnbangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="Live Tv",ATN BANGLA
@@ -89,6 +91,8 @@ http://45.249.187.238:8081/hls/new4.m3u8
 http://45.249.187.238:8081/hls/new3.m3u8
 #EXTINF:-1 tvg-logo="https://bijoy.tv/wp-content/uploads/2019/05/logo.png" group-title="Live Tv",BIJOY TV
 http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://bijoy.tv/wp-content/uploads/2019/05/logo.png" group-title="Live Tv",BIJOY TV
+http://45.249.187.238:8081/hls/new8.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017618237134028800/7Q0UlOne_400x400.jpg" group-title="Live Tv",ANAND TV
 http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017618237134028800/7Q0UlOne_400x400.jpg" group-title="Live Tv",ANAND TV
@@ -106,37 +110,41 @@ http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Sony_SAB_%28TV%29.png/100px-Sony_SAB_%28TV%29.png" group-title="Live Tv",SONY SAB
 http://103.214.202.218:8081/live/sonysab/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Sony_SAB_%28TV%29.png/100px-Sony_SAB_%28TV%29.png" group-title="Live Tv",SONY SAB
-http://103.135.208.14/live/ibox/bd/45.m3u8
+http://45.249.187.238:8081/hls/tsl-4.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Live Tv",COLORS HD 
 http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Live Tv",ZEE TV
-http://45.249.187.238:8081/hls/tsl-1.m3u8
+http://45.249.187.238:8081/hls/tsl-5.m3u8
 #EXTINF:-1 tvg-logo="https://s3images.zee5.com/wp-content/uploads/sites/3/2019/01/cropped-Tv.png" group-title="Live Tv",& TV
 http://103.214.202.218:8081/live/andtv-27/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3images.zee5.com/wp-content/uploads/sites/3/2019/01/cropped-Tv.png" group-title="Live Tv",& TV
-http://45.249.187.238:8081/hls/tsl-5.m3u8
+http://45.249.187.238:8081/hls/tsl-6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Live Tv",SONY MAX 
 http://103.135.208.14/live/ibox/bd/107.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Live Tv",SONY MAX HD
 http://103.214.202.218:8081/live/satmax-37/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://ihut.live/wp-content/uploads/2020/03/Star-Gold-2-1170x694.jpg" group-title="Live Tv",Star Gold 2
-45.249.187.238:8081/hls/tsl-6.m3u8
+45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF:-1,tvg-logo="https://www.adgully.com/img/800/201909/jby7kv1wjoonygtffhu5.png.jpg" group-title="Live Tv",Zee ACTION
 http://45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-picture-logo-300x300.jpg" group-title="Live Tv",& PICTURE
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-picture-logo-300x300.jpg" group-title="Live Tv",& PICTURE
-http://45.249.187.238:8081/hls/tsl-7.m3u8
+http://45.249.187.238:8081/hls/tsl-2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-flix-hd-logo-300x300.jpg" group-title="Live Tv",& FLIX
 http://103.214.202.218:8081/live/andflix-29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Live Tv",& Prive HD
 http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Live Tv",Sony Pix
-http://45.249.187.238:8081/hls/new13.m3u8
+http://45.249.187.238:8081/hls/new21.m3u8
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/movie-star-png.png" group-title="Live Tv",Star Movies HD
 http://45.249.187.238:8081/hls/tsl-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Live Tv",HBO
 http://45.249.187.238:8081/hls/new13.m3u8
+#EXTINF:-1,tvg-logo="https://www.ranklogos.com/wp-content/uploads/2012/04/utv-action-logo-1.jpg" group-title="Live Tv",UTV ACTION
+http://45.249.187.238:8081/hls/tsl-7.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mra6rocKYmM/U-PMvYqzsHI/AAAAAAAAA4E/Wh03-dcDUCg/s1600/227_lotus-macau_300_300.png" group-title="ITPOLLY",LOTUS MACAU
+http://45.249.187.238:8081/hls/new22.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="Live Tv",MOVIES NOW HD
 http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="Live Tv",MOVIES NOW HD
@@ -152,7 +160,7 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="Live Tv",HISTORY TV HD
 http://103.214.202.218:8081/live/history/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/845/766/discovery-channel-logo-television-channel-discovery-networks-emea-discovery-channel-logo-png-clip-art.png" group-title="Live Tv",DISCOVERY
-http://45.249.187.238:8081/hls/tsl-8.m3u8
+http://45.249.187.238:8081/hls/tsl-1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Live Tv",ANIMAL PLANET 
 http://103.214.202.218:8081/live/animalplanet-13/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Live Tv",ANIMAL PLANET 
@@ -161,6 +169,10 @@ http://45.249.187.238:8081/hls/tsl-1.m3u8
 http://103.214.202.218:8081/live/mtv-14/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png" group-title="Live Tv",DISNEEP CHANNEL
 http://45.249.187.238:8081/hls/live0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="Live Tv",Cartoon Network
+http://45.249.187.238:8081/hls/new14.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/202004/pogo_logo.jpg" group-title="Live Tv",POGO
+http://45.249.187.238:8081/hls/new18.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Live Tv",Sony Ten 1
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Live Tv",Sony Ten 1
@@ -180,13 +192,13 @@ http://103.49.168.172:8081/ebox/six/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://cdn.clipart.email/b504e9913288900ca726a0a2b200e17b_star-sports-1-logopedia-fandom_250-196.png" group-title="Live Tv",Star Sports 1
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://cdn.clipart.email/b504e9913288900ca726a0a2b200e17b_star-sports-1-logopedia-fandom_250-196.png" group-title="Live Tv",Star Sports 1
-http://45.249.187.238:8081/hls/new2.m3u8
+http://45.249.187.238:8081/hls/new1.m3u8
 #EXTINF:-1,tvg-logo="https://i.pinimg.com/originals/27/a5/3a/27a53a041be3eb0b8574c267e071a1ff.png" group-title="Live Tv",Star Sports 2
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Live Tv",Star Sports SELECT 2
 http://103.214.202.218:8081/live/select1/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Live Tv",Star Sports SELECT 2
-http://otv.ftpbd.net/streams/114/index.m3u8
+http://45.249.187.238:8081/hls/new2.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Live Tv",Abu Dhabi Sports 3
 http://103.214.202.218:8081/live/adsports3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925904402s.png" group-title="Live Tv",SANGEET BANGLA
@@ -203,6 +215,10 @@ http://103.135.208.14/live/ibox/bd/34.m3u8
 http://45.249.187.238:8081/hls/new9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="Live Tv",MADINAH
 http://45.249.187.238:8081/hls/new11.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="Live Tv",MAKKAH
+45.249.187.238:8081/hls/new15.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="Live Tv",Al Jazeera
+http://45.249.187.238:8081/hls/new17.m3u8
 #################################################### MOVIE PLEX #################################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp4snOO.jpg" group-title="MOVIE PLEX",KOLI 2.0 (2018)
 http://server2.ftpbd.net/FTP-2/Bangla%20Collection/BANGLA/Web%20Series/Koli%202.0%20%5B2018%5D%20Bengali%20Movie%201080p/Koli%202.0%20%5B2018%5D%20Bengali%20Movie%201080p%20UNTOUCHED%20-%20Webdl%20x%20264%20AVC%20-%20AAC%20-%20DD%202.0%20By%20Team%20Techbangla%20Xclusive.mp4
