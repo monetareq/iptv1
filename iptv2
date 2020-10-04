@@ -74,7 +74,7 @@ http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Z2q_uP7C6Mg/W6Nxd349krI/AAAAAAAAAP4/P3knXzJ31rMrhbQdHk6b2-M-uQrZ_Zh_QCLcBGAs/s1600/Channel-9-live.png" group-title="Live Tv",Channel 9
 http://45.249.187.238:8081/hls/live3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Live Tv",JAMUNA TV
-http://ctgiptv.kitv.live:1935/live/test/test1/08.m3u8
+http://ctgiptv.kitv.live:1935/live/test/test1/08.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Live Tv",JAMUNA TV
 http://103.214.202.218:8081/live/jamuna/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Live Tv",JAMUNA TV
@@ -92,7 +92,7 @@ http://45.249.187.238:8081/hls/new4.m3u8
 #EXTINF:-1 tvg-logo="https://bd-career.org/wp-content/uploads/2018/01/Duronto-TV-Jobs-Circular.jpg" group-title="Live Tv",DURANTO TV
 http://45.249.187.238:8081/hls/new3.m3u8
 #EXTINF:-1 tvg-logo="https://bd-career.org/wp-content/uploads/2018/01/Duronto-TV-Jobs-Circular.jpg" group-title="Live Tv",DURANTO TV
-http://ctgiptv.kitv.live:1935/live/test/test1/12.m3u8
+http://ctgiptv.kitv.live:1935/live/test/test1/12.ts
 #EXTINF:-1 tvg-logo="https://bijoy.tv/wp-content/uploads/2019/05/logo.png" group-title="Live Tv",BIJOY TV
 http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://bijoy.tv/wp-content/uploads/2019/05/logo.png" group-title="Live Tv",BIJOY TV
@@ -106,9 +106,9 @@ http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/transparent-live-star-jalsa-9.png" group-title="Live Tv",STAR JALSHA
 http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/transparent-live-star-jalsa-9.png" group-title="Live Tv",STAR JALSHA
-ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
+ctgiptv.kitv.live:1935/live/test/test1/27.ts
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="Live Tv",ZEE BANGLA
-http://ctgiptv.kitv.live:1935/live/test/test1/26.m3u8
+http://ctgiptv.kitv.live:1935/live/test/test1/26.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY
 http://103.214.202.218:8081/live/sony-40/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY
@@ -148,7 +148,7 @@ http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Live Tv",HBO
 http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Live Tv",HBO
-http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
+http://ctgiptv.kitv.live:1935/live/test/test1/45.ts
 #EXTINF:-1,tvg-logo="https://www.ranklogos.com/wp-content/uploads/2012/04/utv-action-logo-1.jpg" group-title="Live Tv",UTV ACTION
 http://45.249.187.238:8081/hls/tsl-7.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mra6rocKYmM/U-PMvYqzsHI/AAAAAAAAA4E/Wh03-dcDUCg/s1600/227_lotus-macau_300_300.png" group-title="ITPOLLY",LOTUS MACAU
