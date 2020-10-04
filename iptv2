@@ -66,7 +66,7 @@ http://103.214.202.218:8081/live/channel24/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/18/1885b7770c5bd621642f8e135c072b60.jpeg" group-title="Live Tv",EKKATOR TV
 http://45.249.187.238:8081/hls/live6.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/18/1885b7770c5bd621642f8e135c072b60.jpeg" group-title="Live Tv",EKKATOR TV
-http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
+http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/5c/48/545c484739183de76611413e5fc2a8ea.jpg" group-title="Live Tv",EKUSHEY TV
 http://103.214.202.218:8081/live/ekushey/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Z2q_uP7C6Mg/W6Nxd349krI/AAAAAAAAAP4/P3knXzJ31rMrhbQdHk6b2-M-uQrZ_Zh_QCLcBGAs/s1600/Channel-9-live.png" group-title="Live Tv",Channel 9
