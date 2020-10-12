@@ -126,7 +126,7 @@ http://45.249.187.238:8081/hls/tsl-4.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Live Tv",COLORS HD 
 http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Live Tv",ZEE TV
-http://45.249.187.238:8081/hls/tsl-5.m3u8
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/apacsea/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3images.zee5.com/wp-content/uploads/sites/3/2019/01/cropped-Tv.png" group-title="Live Tv",& TV
 http://103.214.202.218:8081/live/andtv-27/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3images.zee5.com/wp-content/uploads/sites/3/2019/01/cropped-Tv.png" group-title="Live Tv",& TV
