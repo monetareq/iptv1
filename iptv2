@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jagonews24.com/media/imgAllNew/BG/2019November/btv-b-20200504100045.jpg" group-title="Live Tv",BTV 
 http://45.249.187.238:8081/hls/new24.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Live Tv",1.BTV
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="Live Tv",IPL Live 3
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
@@ -112,7 +108,7 @@ http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/transparent-live-star-jalsa-9.png" group-title="Live Tv",STAR JALSHA
 http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/transparent-live-star-jalsa-9.png" group-title="Live Tv",STAR JALSHA
-ctgiptv.kitv.live:1935/live/test/test1/27.ts
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.ts
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="Live Tv",ZEE BANGLA
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",104.Sony Aath
@@ -141,16 +137,18 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/cinemaus
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS_d-hP3_s-6LytrD3RMdXY8z55icDuzzz3Ov14Kjha88Ee-FY&usqp=CAU" group-title="Live Tv",Zee Anmol Cinama
 https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.adgully.com/img/800/201909/jby7kv1wjoonygtffhu5.png.jpg" group-title="Live Tv",Zee ACTION
+http://z5amshls.akamaized.net/action/tracks-v2a1/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="Live Tv",Zee Bollywood
+http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Live Tv",SONY MAX 
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Live Tv",SONY MAX HD
-http://103.214.202.218:8081/live/satmax-37/chunks.m3u8
+https://load.airtel.tv/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Live Tv",Sony Max 2
 https://load.airtel.tv/sonymax2/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,tvg-logo="https://ihut.live/wp-content/uploads/2020/03/Star-Gold-2-1170x694.jpg" group-title="Live Tv",Star Gold 2
 http://45.249.187.238:8081/hls/tsl-3.m3u8
-#EXTINF:-1,tvg-logo="https://www.adgully.com/img/800/201909/jby7kv1wjoonygtffhu5.png.jpg" group-title="Live Tv",Zee ACTION
-http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-picture-logo-300x300.jpg" group-title="Live Tv",& PICTURE
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-picture-logo-300x300.jpg" group-title="Live Tv",& PICTURE
