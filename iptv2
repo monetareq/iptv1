@@ -177,7 +177,7 @@ http://dx3.gcdn.co/BEINSPORTS2FR/index.m3u8
 http://dx3.gcdn.co/BEINSPORTSMAX4/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Live Tv",Bein Sports 5 HD
 http://dx3.gcdn.co/BEINSPORTSMAX5/index.m3u8
-#################################################### MOVIE PLEX #################################################
+#################################################### RADIO #################################################
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/tz0japl7j0xaq8e/88.0.jpg?raw=1" group-title="FM Radio",Radio Foorti (88.0)
 https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/e9sdpnq3nme5ofp/88.4.jpg?raw=1" group-title="FM Radio",Radio Amar (88.4)
@@ -206,3 +206,6 @@ http://peridot.streamguys.com:7150/Mirchi
 http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/pn9rydep7xzxfcg/101.6.jpg?raw=1" group-title="FM Radio",Colours FM (101.6)
 http://45.64.135.88:8000/stream1
+############################################### MOVIE PLEX #################################################################
+#EXTINF: -1 tvg-logo="https://allaboutbanglacinema.org/wp-content/uploads/2019/03/219R13.jpg" group-title="Bangla Movie",Sweater
+https://fs.rangdhanu.live/FTP1/Movies/Bengali%20Movies/2019/Sweater%20(2019)%20[WEBDL-1080p]/Sweater.2019.1080p.WEB-DL.AAC.x264-BonsaiHD.mkv
