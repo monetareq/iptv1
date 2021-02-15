@@ -150,7 +150,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.uk" tvg-name="B4U Movies (2)" tvg-logo="" group-title="Live Tv",B4U Movies (2)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="& Pictures HD " tvg-logo="" group-title="Live Tv",& Pictures HD 
-ttp://103.80.70.59/hls/stream14.m3u8
+http://103.80.70.59/hls/stream14.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Live Tv",Sony Pix
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="Live Tv",Star Movies HD
