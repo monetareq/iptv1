@@ -8,13 +8,13 @@ https://iptvcdn.race.net.bd/live/gazi_tv/chunks.m3u8?expires=1615587352&md5=jqfX
 #EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2016/12/1535_.jpg" group-title="Live Tv",DIPTO TV
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/8.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Live Tv",Ekattor
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/11.m3u8
+https://iptvcdn.race.net.bd/live/ekattor_tv/chunks.m3u8?expires=1615609815&md5=sUZqVmUdRfsAFXoBDr-2lw&user=84de39d0df2044b5bc70081e0f94af3f
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Live Tv",Maasranga
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/51.m3u8
+https://iptvcdn.race.net.bd/live/maasranga/chunks.m3u8?expires=1615609967&md5=uMK6RdeVjV6anlOGCIjs3g&user=84de39d0df2044b5bc70081e0f94af3f
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Live Tv",Nagorik TV
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/59.m3u8
+https://iptvcdn.race.net.bd/live/nagorik_tv/chunks.m3u8?expires=1615610267&md5=sVPekzt8ZJe7ZC7hdxN_0A&user=84de39d0df2044b5bc70081e0f94af3f
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Live Tv",Duronto TV
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/10.m3u8
+https://iptvcdn.race.net.bd/live/duronto_tv/chunks.m3u8?expires=1615609707&md5=BvDGB9k495asw1mR1LppRg&user=84de39d0df2044b5bc70081e0f94af3f
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Live Tv",DBC News
 https://rhridoy136.shortcm.li/dbcnews.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Live Tv",News 24
@@ -28,7 +28,7 @@ https://rhridoy136.shortcm.li/boishakhitv.m3u8
 #EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Live Tv",CHANNEL 24
 https://rhridoy136.shortcm.li/channel24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Live Tv",NTV
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/54.m3u8
+https://iptvcdn.race.net.bd/live/ntv/chunks.m3u8?expires=1615610194&md5=mZJGzpKVOcTtVQKZEqB6_w&user=84de39d0df2044b5bc70081e0f94af3f
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/5c/48/545c484739183de76611413e5fc2a8ea.jpg" group-title="Live Tv",EKUSHEY TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Live Tv",ATN Bangla
@@ -167,6 +167,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlsca
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="Live Tv",Zee Cafe
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="Live Tv",MOVIES NOW HD
+https://iptvcdn.race.net.bd/live/movies_now/chunks.m3u8?expires=1615610136&md5=m5Ixzbk9PbSGsHG3f7XuMg&user=84de39d0df2044b5bc70081e0f94af3f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="Live Tv",MNX 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/800/67819_romedy-now.png.jpg" grouptitle="Live Tv",Romedy Now
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" grouptitle="Live Tv",Travel XP
@@ -211,7 +212,7 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/44.m3u8
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/89.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://programmes.files.bbci.co.uk/programmes-frontend/images/logos/svg/bbc_world_news/service-5742221a20.svg" group-title="Live Tv",BBC WORLD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Live Tv",DW
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/85.m3u8
+https://iptvcdn.race.net.bd/live/dw/chunks.m3u8?expires=1615610374&md5=z6wMLoHRBEx4n9NN9OTqqg&user=84de39d0df2044b5bc70081e0f94af3f
 #################################################### RADIO #################################################
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/tz0japl7j0xaq8e/88.0.jpg?raw=1" group-title="FM Radio",Radio Foorti (88.0)
 https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
