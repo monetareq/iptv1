@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iqra Bangla TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="Live Tv",Iqra Bangla TV
 https://rhridoy136.shortcm.li/iqrabangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/1.m3u8
+https://iptvcdn.race.net.bd/live/gazi_tv/chunks.m3u8?expires=1615587352&md5=jqfXgJOOpjhhDgPoVQxkQw&user=84de39d0df2044b5bc70081e0f94af3f
 #EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2016/12/1535_.jpg" group-title="Live Tv",DIPTO TV
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/8.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Live Tv",Ekattor
