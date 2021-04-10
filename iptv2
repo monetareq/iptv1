@@ -159,6 +159,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="Live Tv",Star Movies HD
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="Live Tv",HBO
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://img.favpng.com/1/21/22/mbc-bollywood-television-channel-logo-png-favpng-Dq3jrGkr5azGRmgNZQqhxPxM9.jpg" group-title="Live Tv",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="Live Tv",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC MAX FHD" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="Live Tv",MBC MAX FHD
