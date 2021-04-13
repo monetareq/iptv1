@@ -201,16 +201,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Live Tv",PTV SPORTS
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WilloW" tvg-logo="https://dvh1deh6tagwk.cloudfront.net/niche-builder/5e75cebe4dc9e.jpg" group-title="Live Tv",WilloW
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 1 HD FR" tvg-logo="https://i.pinimg.com/originals/3d/d3/85/3dd385dd4f6976fbab6e58d674287460.png" group-title="Live Tv",Bein Sports 1 HD FR
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2499/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 2 HD FR" tvg-logo="https://vmp-cms-preprod.telkomsel.com/sites/default/files/banner_xhdpi_bein2.png" group-title="Live Tv",Bein Sports 2 HD FR
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2500/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 3 HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="Live Tv",Bein Sports 3 HD FR
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2501/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 1 HD DE" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-1-free-download-PNG.png" group-title="Live Tv",Sky Sport 1 HD DE
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2478/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 2 HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sky_Sport_2_-_Logo_2015.svg/1280px-Sky_Sport_2_-_Logo_2015.svg.png" group-title="Live Tv",Sky Sport 2 HD DE
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2479/index.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Live Tv",National Geographic
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Live Tv",Discovery Bangla
