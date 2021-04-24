@@ -123,6 +123,7 @@ http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-aakaash-aa-9189.jpg" group-title="Live Tv",AKASH AATH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Live Tv",Sony Aath
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQohbRTLJWveaXgHR_W1GaOXiYEDQ80QQnbeg&usqp=CAU"group-title="Live Tv",Enter 10 Bangla
+http://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/Star-plus-hd.jpg" group-title="Live Tv",STAR PLUS HD
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="http://roarmediazone.com/tv/weblogo/45.jpg" group-title="Live Tv",Colors
 #EXTINF:-1 tvg-id="ext" tvg-name="&tv (2)" tvg-logo="" group-title="Live Tv",&tv
@@ -132,6 +133,7 @@ http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pal IN" tvg-logo="https://i.ytimg.com/vi/v-9r8LEotZc/hqdefault.jpg" group-title="Live Tv",Sony Pal
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://roarmediazone.com/tv/weblogo/32.jpg" group-title="Live Tv",Sony SAB
+http://208.115.215.42:80/SonY_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Jalsha Movies HD
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Live Tv",Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
@@ -148,7 +150,9 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="Live Tv",Sony Max
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Live Tv",SONY MAX HD
+http://208.115.215.42:80/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SonyMax2.uk" tvg-name="Sony Max 2 (2)" tvg-logo="" group-title="Live Tv",Sony Max 2
+http://208.115.215.42:80/SonY_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ABZY MOVIES" tvg-logo="" group-title="Live Tv",ABZY MOVIES
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Live Tv",Bflix Movies
@@ -182,6 +186,8 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Live Tv",Cinemax
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="Live Tv",Zee Cafe
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Live Tv",Thrill 
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg" group-title="Live Tv",ENT:Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="Live Tv",Blue Ant Extreme
