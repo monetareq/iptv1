@@ -127,6 +127,8 @@ http://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="&tv (2)" tvg-logo="" group-title="Live Tv",&tv
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Live Tv",Zee Tv HD
+#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Zest-Logo.jpg" group-title="Live Tv",Zee Zest
+https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pal IN" tvg-logo="https://i.ytimg.com/vi/v-9r8LEotZc/hqdefault.jpg" group-title="Live Tv",Sony Pal
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://roarmediazone.com/tv/weblogo/32.jpg" group-title="Live Tv",Sony SAB
