@@ -136,7 +136,7 @@ https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha
 http://103.159.4.46:8080/STAR-JALSHA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Live Tv",Zee Bangla 
-http://cv.khushitv.xyz/channels.php?c=zeebanglahd&e=.m3u8
+http://master.beeiptv.com:8081/master/zeebangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Live Tv",Colors Bangla HD
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-aakaash-aa-9189.jpg" group-title="Live Tv",AKASH AATH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Live Tv",Sony Aath
@@ -257,20 +257,25 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Live Tv",BEIN Sports 1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Live Tv",BEIN Sports 2
+http://dds.oncast.me:1934/dlive/sp9.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Live Tv",BEIN Sports 3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="Live Tv",BEIN Sports 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="Live Tv",SKY SPORTS CRICKET
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="Live Tv",SKY SPORTS FOOTBALL
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-mix-vector-logo.png" group-title="Live Tv",SKY SPORTS MIX
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Live Tv",Ten Cricket
+http://dds.oncast.me:1934/dlive/sp5.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="Live Tv",Geo Super
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Live Tv",118.Sony Six
+http://dds.oncast.me:1934/dlive/sp7.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Live Tv",Sony Six
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Live Tv",Sony Ten 1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Live Tv",Sony Ten 2
+http://dds.oncast.me:1934/dlive/sp1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_439/PORTRAIT/fwd2lXFg.png" group-title="Live Tv",Sony Ten 3
 #EXTINF:-1,tvg-logo="https://cdn.clipart.email/b504e9913288900ca726a0a2b200e17b_star-sports-1-logopedia-fandom_250-196.png" group-title="Live Tv",Star Sports 1
+http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://cdn.clipart.email/b504e9913288900ca726a0a2b200e17b_star-sports-1-logopedia-fandom_250-196.png" group-title="Live Tv",Star Sports 1
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30630
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Live Tv",Star Sports 2 HD
@@ -279,10 +284,12 @@ http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Live Tv",Star Sports SELECT 1
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Live Tv",Star Sports SELECT 1
+http://dds.oncast.me:1934/dlive/sp4.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Live Tv",Star Sports SELECT 2
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/cwsassets/eur-5c7e359501582/2019/06/12/5d010245ee96c_thumbnail.jpg?version=1560347207" group-title="Live Tv",Euro Sports
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Live Tv",PTV SPORTS
 #EXTINF:-1 tvg-id="" tvg-name="WilloW" tvg-logo="https://dvh1deh6tagwk.cloudfront.net/niche-builder/5e75cebe4dc9e.jpg" group-title="Live Tv",WilloW
+http://dds.oncast.me:1934/dlive/sp6.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WilloW" tvg-logo="http://p-img.movetv.com/cms/images/461f1a555bc3dc574c87ad790122d009291cc8c4.jpg" group-title="Live Tv",LALIGA TV
 #EXTINF:-1 tvg-id="" tvg-name="WilloW" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="Live Tv",SKY SPORTS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" grouptitle="Live Tv",Travel XP
