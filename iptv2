@@ -134,12 +134,15 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ42mUh5g9tGAhhM8721218Pwjz6ChrkcIM89NUPb0SePsOZjLXFMeofsfK-8jLWJfLYfM&usqp=CAU" group-title="Live Tv",DD Bangla
 https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha
-http://103.159.4.46:8080/STAR-JALSHA/tracks-v1a1/mono.m3u8
+http://103.81.104.118/hls/stream31.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Live Tv",Zee Bangla HD
+http://103.81.104.118/hls/stream30.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Live Tv",Zee Bangla 
 http://master.beeiptv.com:8081/master/zeebangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Live Tv",Zee Bangla HD
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Live Tv",Colors Bangla HD
+http://103.81.104.118/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-aakaash-aa-9189.jpg" group-title="Live Tv",AKASH AATH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Live Tv",Sony Aath
 http://master.beeiptv.com:8081/master/sonyaath/playlist.m3u8
@@ -150,6 +153,7 @@ http://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="Live Tv",R Plus Gold
 https://itvorigin.multitvsolution.com:443/idvo/rplusgold_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/Star-plus-hd.jpg" group-title="Live Tv",STAR PLUS HD
+http://103.81.104.118/hls/stream38.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Utsav_Plus_Logo.jpg" group-title="Live Tv",UTSAV PLUS HD
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="http://roarmediazone.com/tv/weblogo/45.jpg" group-title="Live Tv",Colors HD
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="http://roarmediazone.com/tv/weblogo/45.jpg" group-title="Live Tv",Colors HD
@@ -164,13 +168,18 @@ https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://roarmediazone.com/tv/weblogo/32.jpg" group-title="Live Tv",Sony SAB
 http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Jalsha Movies HD
+http://103.81.104.118/hls/stream27.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Live Tv",Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://mpng.subpng.com/20181216/oea/kisspng-television-channel-kolkata-ruposhi-bangla-bengali-ruposhi-bangla-tv-serial-5c1687910255f3.6522175015449803690096.jpg" group-title="Live Tv",Ruposhi Bangla
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://img.favpng.com/1/21/22/mbc-bollywood-television-channel-logo-png-favpng-Dq3jrGkr5azGRmgNZQqhxPxM9.jpg" group-title="Live Tv",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Live Tv",Zee Cinema HD
+http://103.81.104.118/hls/stream25.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Live Tv",Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Live Tv",Star Gold HD
+http://103.81.104.118/hls/stream19.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Live Tv",Star Gold HD
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Star_Gold_Select_HD.png/revision/latest?cb=20190810163831" group-title="Live Tv",Star Gold Select HD
@@ -182,6 +191,7 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol Cinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title="Live Tv",Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="Live Tv",Colours Cineplex
+http://103.81.104.118/hls/stream29.m3u8
 #EXTINF:-1 tvg-id="RishteyCineplex.uk" tvg-name="Rishtey Cineplex" tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/04/rishtey-cineplex.jpg?w=640" group-title="Live Tv",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="Live Tv",Sony Max
@@ -198,13 +208,18 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.uk" tvg-name="B4U Movies (2)" tvg-logo="" group-title="Live Tv",B4U Movies 
 #EXTINF:-1 tvg-id="ext" tvg-name="& Pictures HD " tvg-logo="" group-title="Live Tv",& Pictures HD 
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="& Pictures HD " tvg-logo="" group-title="Live Tv",& Pictures HD 
+http://103.81.104.118/hls/stream14.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Monoranjan Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtQzwy7mbf4oohpyLiaxyFSyjqzKKmuxknccXHkokhKfUeOMc_&usqp=CAU" group-title="Live Tv",Monoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-RFaKvuN86Gk-8VJ-CvQpng51VKqwh1xd1mFKo-50M26UySZ5t5DcqYMu&s=10" group-title="Live Tv",UTV Action
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-RFaKvuN86Gk-8VJ-CvQpng51VKqwh1xd1mFKo-50M26UySZ5t5DcqYMu&s=10" group-title="Live Tv",UTV Action
+http://103.81.104.118/hls/stream7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Live Tv",Sony Pix
-http://185.71.64.167/live/694012161735110/694012161735110/83703.m3u8
+http://103.81.104.118/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="Live Tv",Star Movies HD
+http://103.81.104.118/hls/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="Live Tv",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="Live Tv",HBO
@@ -245,8 +260,11 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201907/sony-yay.jpg" group-title="Live Tv",Sony YAY
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201907/sony-yay.jpg" group-title="Live Tv",Sony YAY
+http://103.81.104.118/hls/stream32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://roarmediazone.com/tv/weblogo/54.jpg" group-title="Live Tv",Cartoon Network
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8c/23/ff/8c23ffe477717c21de730f66685c3972.png" group-title="Live Tv",Nick
+http://103.81.104.118/hls/stream23.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png" group-title="Live Tv",Nick JR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Live Tv",Nicklodian Sonic
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Live Tv",BOMERANG
@@ -268,36 +286,42 @@ http://dds.oncast.me:1934/dlive/sp9.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="Live Tv",SKY SPORTS FOOTBALL
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-mix-vector-logo.png" group-title="Live Tv",SKY SPORTS MIX
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Live Tv",Ten Cricket
-http://dds.oncast.me:1934/dlive/sp5.stream/chunks.m3u8
+http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="Live Tv",Geo Super
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Live Tv",118.Sony Six
-http://dds.oncast.me:1934/dlive/sp7.stream/chunks.m3u8
+http://103.81.104.118/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Live Tv",Sony Six
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Live Tv",Sony Ten 1
+http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Live Tv",Sony Ten 2
-http://dds.oncast.me:1934/dlive/sp1.stream/chunks.m3u8
+http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_439/PORTRAIT/fwd2lXFg.png" group-title="Live Tv",Sony Ten 3
 #EXTINF:-1,tvg-logo="https://cdn.clipart.email/b504e9913288900ca726a0a2b200e17b_star-sports-1-logopedia-fandom_250-196.png" group-title="Live Tv",Star Sports 1
-http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8
+http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-1,tvg-logo="https://cdn.clipart.email/b504e9913288900ca726a0a2b200e17b_star-sports-1-logopedia-fandom_250-196.png" group-title="Live Tv",Star Sports 1
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30630
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Live Tv",Star Sports 2 HD
 http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Live Tv",Star Sports 2 HD
+http://103.81.104.118/hls/stream16.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Live Tv",Star Sports SELECT 1
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Live Tv",Star Sports SELECT 1
-http://dds.oncast.me:1934/dlive/sp4.stream/chunks.m3u8
+http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Live Tv",Star Sports SELECT 2
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/cwsassets/eur-5c7e359501582/2019/06/12/5d010245ee96c_thumbnail.jpg?version=1560347207" group-title="Live Tv",Euro Sports
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Live Tv",PTV SPORTS
 http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Live Tv",PTV SPORTS
+http://103.81.104.118/hls/stream11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WilloW" tvg-logo="https://dvh1deh6tagwk.cloudfront.net/niche-builder/5e75cebe4dc9e.jpg" group-title="Live Tv",WilloW
-http://dds.oncast.me:1934/dlive/sp6.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WilloW" tvg-logo="http://p-img.movetv.com/cms/images/461f1a555bc3dc574c87ad790122d009291cc8c4.jpg" group-title="Live Tv",LALIGA TV
 #EXTINF:-1 tvg-id="" tvg-name="WilloW" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="Live Tv",SKY SPORTS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" grouptitle="Live Tv",Travel XP
+http://103.81.104.118/hls/stream37.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="Live Tv",AXN HD
+http://103.81.104.118/hls/stream1.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="Live Tv",AXN HD
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="Live Tv",TLC
@@ -308,19 +332,26 @@ https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 http://103.204.164.136:1935/live/smil:careworld.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Live Tv",National Geographic
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Live Tv",National Geographic HD
+http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Live Tv",Discovery Bangla
+http://103.81.104.118/hls/stream9.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Live Tv",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://roarmediazone.com/tv/weblogo/23.jpg" group-title="Live Tv",Sony BBC Earth HD
+http://103.81.104.118/hls/stream5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Live Tv",ANIMAL PLANET HD
+http://103.81.104.118/hls/stream6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Live Tv",ANIMAL PLANET 
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj0CeO2Dsi0GQc0Ej_acUTZuYWnn_BTP7baT7wIaA=s900-c-k-c0x00ffffff-no-rj" group-title="Live Tv",MTV BEATS
+http://103.81.104.118/hls/stream4.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8d/b2/71/8db27137c9202ccfba2175e13883facf.png" group-title="Live Tv",DHOOM
+http://103.81.104.118/hls/stream8.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925904402s.png" group-title="Live Tv",SANGEET BANGLA
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6.jpg" group-title="Live Tv",AL-JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://programmes.files.bbci.co.uk/programmes-frontend/images/logos/svg/bbc_world_news/service-5742221a20.svg" group-title="Live Tv",BBC WORLD
-http://192.168.254.16:8080
+http://103.81.104.118/hls/stream36.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Live Tv",DW
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
