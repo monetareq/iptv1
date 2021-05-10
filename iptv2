@@ -297,6 +297,7 @@ http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WilloW" tvg-logo="http://p-img.movetv.com/cms/images/461f1a555bc3dc574c87ad790122d009291cc8c4.jpg" group-title="Live Tv",LALIGA TV
 #EXTINF:-1 tvg-id="" tvg-name="WilloW" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="Live Tv",SKY SPORTS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" grouptitle="Live Tv",Travel XP
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="Live Tv",AXN HD
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="Live Tv",AXN HD
 http://210.210.155.35/uq2663/h/h141/01.m3u8
