@@ -165,6 +165,7 @@ http://221.120.204.4/SONY-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://roarmediazone.com/tv/weblogo/32.jpg" group-title="Live Tv",Sony SAB
 http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Jalsha Movies HD
+https://1449.myindian.tv/edge/19531/index.m3u8?token=48.1.7850.5b6712e65ca2a3b59e7e003169e19752.1.2.2.965.0.0.9b67a2a8ca4fd2314fa5ca86d76502ed
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Live Tv",Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://mpng.subpng.com/20181216/oea/kisspng-television-channel-kolkata-ruposhi-bangla-bengali-ruposhi-bangla-tv-serial-5c1687910255f3.6522175015449803690096.jpg" group-title="Live Tv",Ruposhi Bangla
@@ -178,6 +179,7 @@ http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 http://87.117.234.107:1935//live//STARGOLDSELECTFHD//chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://etimg.etb2bimg.com/photo/73770383.cms" group-title="Live Tv", STAR GOLD 2
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Utsav_Gold_HD_logo.svg/revision/latest?cb=20210126011353" group-title="Live Tv",UTSAV Gold HD
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/23397
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201909/jby7kv1wjoonygtffhu5.png.jpg" group-title="Live Tv",Zee ACTION
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="Live Tv",Zee Bollywood
@@ -185,6 +187,7 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol Cinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title="Live Tv",Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="Live Tv",Colours Cineplex
+http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RishteyCineplex.uk" tvg-name="Rishtey Cineplex" tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/04/rishtey-cineplex.jpg?w=640" group-title="Live Tv",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="Live Tv",Sony Max
@@ -251,6 +254,7 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201907/sony-yay.jpg" group-title="Live Tv",Sony YAY
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://roarmediazone.com/tv/weblogo/54.jpg" group-title="Live Tv",Cartoon Network
+http://72.255.34.227:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8c/23/ff/8c23ffe477717c21de730f66685c3972.png" group-title="Live Tv",Nick
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png" group-title="Live Tv",Nick JR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Live Tv",Nicklodian Sonic
@@ -334,6 +338,7 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj0CeO2Dsi0GQc0Ej_acUTZuYWnn_BTP7baT7wIaA=s900-c-k-c0x00ffffff-no-rj" group-title="Live Tv",MTV BEATS
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8d/b2/71/8db27137c9202ccfba2175e13883facf.png" group-title="Live Tv",DHOOM
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925904402s.png" group-title="Live Tv",SANGEET BANGLA
+https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6.jpg" group-title="Live Tv",AL-JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://programmes.files.bbci.co.uk/programmes-frontend/images/logos/svg/bbc_world_news/service-5742221a20.svg" group-title="Live Tv",BBC WORLD
