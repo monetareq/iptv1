@@ -265,9 +265,23 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://i.imgur.com/ERFDaE4.png" group-title="Live Tv",AD Sports 3
 https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Live Tv",BEIN Sports 1
+http://2.alhawalouh.xyz/live/918454578/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Live Tv",BEIN Sports 2
+http://1.alhawalouh.xyz/live/69854211/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Live Tv",BEIN Sports 3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="Live Tv",BEIN Sports 
+http://3.alhawalouh.xyz/live/645587700/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="Live Tv",BEIN Sports 4
+http://1.alhawalouh.xyz/live/9787488847/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Live Tv",BEIN Sports 5
+http://1.alhawalouh.xyz/live/610303030/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://3.bp.blogspot.com/-Q3cQE37oZmA/WVGH5pZCftI/AAAAAAAAHa0/8hVwzjQ5M78xgPJk6Glc9j3P2lj10uUgACLcBGAs/s1600/be_in_mena_sports_06_hd.png" group-title="Live Tv",BEIN Sports 6
+http://2.alhawalouh.xyz/live/1515000000/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="Live Tv",BEIN Sports 7
+http://3.alhawalouh.xyz/live/791001144/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest?cb=20201108180658" group-title="Live Tv",BEIN Extra 1
+http://1.alhawalouh.xyz/live/9962564400/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="Live Tv",BEIN Extra 2
+http://1.alhawalouh.xyz/live/880025552/index.m3u8
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="Live Tv",SKY SPORTS CRICKET
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="Live Tv",SKY SPORTS FOOTBALL
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-mix-vector-logo.png" group-title="Live Tv",SKY SPORTS MIX
