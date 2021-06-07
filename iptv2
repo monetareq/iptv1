@@ -90,7 +90,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nandan TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/0c/71/0e0c71d1-587e-4de6-66cc-1bd1dc23b116/source/512x512bb.jpg" group-title="Live Tv",Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/09/Youth-Bangla-Tv.jpg" group-title="Live Tv",Youth Bangla
+#EXTINF:-1 tvg-logo="http://bangabandhuiptv.com/wp-content/uploads/2021/01/Progati-TV.png" group-title="Live Tv",Progati T
+http://tv.progati.tv:1935/live/progoti/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cnn-bangla-tv-9082.jpg" group-title="Live Tv",CNN Bangla
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.millenniumtv.org/wp-content/uploads/2017/01/IMG_1669-e1484721043731.png" group-title="Live Tv",Millennium TV
