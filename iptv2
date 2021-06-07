@@ -10,40 +10,42 @@ https://rhridoy136.shortcm.li/iqrabangla.m3u8
 http://172.16.29.28/hls/sports3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2016/12/1535_.jpg" group-title="Live Tv",DIPTO TV
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Live Tv",Ekattor
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Live Tv",Maasranga
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Live Tv",Nagorik TV
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Live Tv",Duronto TV
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Live Tv",DBC News
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Live Tv",News 24
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Live Tv",SATV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Live Tv",ATN News
+http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Live Tv",Shomoy TV
+http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Live Tv",Independent
+http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Live Tv",JAMUNA TV
+http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Live Tv",CHANNEL 24
+http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Live Tv",Ekattor
+#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2016/12/1535_.jpg" group-title="Live Tv",DIPTO TV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Live Tv",Maasranga
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Live Tv",Channel I
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Live Tv",Boishakhi
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Live Tv",Nagorik TV
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Live Tv",Duronto TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Live Tv",SATV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/s-7yiyj1607869140946.jpg" group-title="Live Tv",Boishakhi Plus
 http://tempe.jagobd.com:1932/iptv/boishakhiplus.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Live Tv",CHANNEL 24
-http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Live Tv",NTV
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/5c/48/545c484739183de76611413e5fc2a8ea.jpg" group-title="Live Tv",EKUSHEY TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?Live-TV™
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Live Tv",ATN Bangla
 http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Live Tv",ATN News
-http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Live Tv",Desh TV
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Live Tv",Banglavision
 http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Live Tv",Shomoy TV
-http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Live Tv",Independent
-http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Live Tv",Channel 9
 http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-rtv-png-9.png" group-title="Live Tv",RTV
@@ -51,33 +53,27 @@ http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg" group-title="Live Tv",Bijoy TV
 http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Live Tv",Gaan Bangla HD
-http://iptvbd.jagobd.com:1931/boishakhi/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Live Tv",Bangla TV
 http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Live Tv",MOHONA TV
 http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Live Tv",JAMUNA TV
-http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Live Tv",BTV
-http://iptvbd.jagobd.com:1931/boishakhi/btvbd-office-sg.stream/playlist.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="Live Tv",Asian TV
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Live Tv",Anando TV
-http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Live Tv",Sangsad TV
 http://iptvbd.jagobd.com:1931/boishakhi/songsodtv-world.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Live Tv",Gaan Bangla HD
+http://iptvbd.jagobd.com:1931/boishakhi/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sristytv.com/uploads/logo_image/logo_43.png" group-title="Live Tv",সৃষ্টি টিভি
 http://tempe.jagobd.com:1932/iptv/sristytv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/3O1fEbMBuNUFjEgfdaUN3u33eEJA3poD28ufN-sUZth8Ag1H2kg1MVx3_ZWxvV9cqZh49b-hCWG85xOT5qVQ8MU6OMDSWKTo4uVQrMI1sT6oRFE" group-title="Live Tv",JARA TV
 https://jaratvbd-hls.telelivebd.com/jaratvbd/jaratvbd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="Live Tv",Cumilla 24 TV
-http://iptvbd.jagobd.com:1931/boishakhi/songsodtv-world.stream/playlist.m3u8
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/cumilla24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://chsuk.tv/img/cateringcircle.png" group-title="Live Tv",Channel S UK
-http://iptvbd.jagobd.com:1931/boishakhi/songsodtv-world.stream/playlist.m3u8
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://shopno-tv.com/wp-content/uploads/2019/09/shopno.png" group-title="Live Tv",Shopno Tv
-http://103.81.198.111:8080/shopno/shopnotv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel T1" tvg-logo="https://www.funtatv.com/wp-content/uploads/2020/08/channel-t1_spyvjm.png" group-title="Live Tv",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" group-title="Live Tv",ATN Islamic TV
