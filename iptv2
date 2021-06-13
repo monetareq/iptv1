@@ -142,6 +142,7 @@ http://cdn.ihub.live:8080/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Logo_of_Sun_Bangla.jpg" group-title="Live Tv",Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQohbRTLJWveaXgHR_W1GaOXiYEDQ80QQnbeg&usqp=CAU"group-title="Live Tv",Enter 10 Bangla
+http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 http://103.81.104.118/hls/stream26.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="Live Tv",R Plus Gold
 #EXTINF:-1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/Star-plus-hd.jpg" group-title="Live Tv",STAR PLUS HD
@@ -159,6 +160,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY
 http://cdn.ihub.live:8080/j-SonyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://roarmediazone.com/tv/weblogo/32.jpg" group-title="Live Tv",Sony SAB
 http://cdn.ihub.live:8080/SonySAB/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7de2eCX.jpg" group-title="Live Tv", Aamar Cinema
