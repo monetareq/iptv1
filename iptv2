@@ -380,3 +380,14 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://103.81.104.118/hls/stream36.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Live Tv",DW
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+..........................................................MOVIES......................................................................
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fscottmendelson%2Ffiles%2F2016%2F05%2FAngry-Birds-final-quad.jpg" group-title="Animation Movie"s",Angry Birds (2016)
+http://10.10.10.10/FTP1/English%20Movies/2016/Angry%20Birds%20%282016%29%20%5B1080p%5D/Angry.Birds.2016.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn.ndtv.com/tech/gadgets/angry_birds_2_opinion.jpg" group-title="Animation Movie"s",Angry Birds 2 (2019)
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="http://images.prints-and-posters.com//albums/3/3875/movie-poster-rio-83591.jpg" group-title="Animation Movie"s",RIO (2011)
+http://cdn1.moviehaat.net:8888/AnimationMovie/Rio%201%202011%201080p%20BluRay%20x264%20YIFY.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="http://4.bp.blogspot.com/-QN3XTZvw99Y/U-EBkJx2l3I/AAAAAAAACvs/aqDJ-vrQ5qs/s1600/rio-2-movie-logo-2014-wallpaper.jpg" group-title="Animation Movie"s",RIO 2 (2014)
+http://10.10.10.10/FTP1/English%20Movies/2014/Rio%202%20%282014%29%20%5B1080p%5D/Rio.2.2014.1080p.BluRay.x264.YIFY.mp4
+
+
