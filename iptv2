@@ -144,7 +144,7 @@ http://103.81.104.118/hls/stream30.m3u8
 http://103.81.104.118/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-aakaash-aa-9189.jpg" group-title="Live Tv",AKASH AATH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Live Tv",Sony Aath
-http://cdn.ihub.live:8080/SonyAath/tracks-v1a1/mono.m3u8
+https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Logo_of_Sun_Bangla.jpg" group-title="Live Tv",Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQohbRTLJWveaXgHR_W1GaOXiYEDQ80QQnbeg&usqp=CAU"group-title="Live Tv",Enter 10 Bangla
@@ -166,12 +166,13 @@ https://streamer-1.toffeelive.com/mobile_hls/zee_tv_hd/5/04dfcf51f5f17bc7739a41f
 #EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Zest-Logo.jpg" group-title="Live Tv",Zee Zest
 https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pal IN" tvg-logo="https://i.ytimg.com/vi/v-9r8LEotZc/hqdefault.jpg" group-title="Live Tv",Sony Pal
+https://streamer-1.toffeelive.com/mobile_hls/sony_pal/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY
 http://cdn.ihub.live:8080/j-SonyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://roarmediazone.com/tv/weblogo/32.jpg" group-title="Live Tv",Sony SAB
-http://cdn.ihub.live:8080/SonySAB/tracks-v1a1/mono.m3u8
+https://streamer-1.toffeelive.com/mobile_hls/sony_sab_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7de2eCX.jpg" group-title="Live Tv", Aamar Cinema
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Jalsha Movies HD
 http://103.81.104.118/hls/stream27.m3u8
@@ -205,10 +206,10 @@ http://103.81.104.118/hls/stream29.m3u8
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RishteyCineplex.uk" tvg-name="Rishtey Cineplex" tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/04/rishtey-cineplex.jpg?w=640" group-title="Live Tv",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="Live Tv",Sony Max
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Live Tv",Sony Max
 https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Live Tv",SONY MAX HD
-#EXTINF:-1 tvg-id="SonyMax2.uk" tvg-name="Sony Max 2 (2)" tvg-logo="" group-title="Live Tv",Sony Max 2
+#EXTINF:-1 tvg-id="SonyMax2.uk" tvg-name="Sony Max 2 (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Live Tv",Sony Max 2
 https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Live Tv",Sony Wah
 https://streamer-1.toffeelive.com/mobile_hls/sony_wah/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -230,9 +231,9 @@ http://103.81.104.118/hls/stream7.m3u8
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Live Tv",Sony Pix HD
 https://streamer-1.toffeelive.com/mobile_hls/sony_pix_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-http://103.81.104.118/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Live Tv",Sony Pix 
 http://cdn.ihub.live:8080/SonyPix/tracks-v1a1/mono.m3u8
+http://103.81.104.118/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="Live Tv",Star Movies HD
 https://cutt.ly/hnEcdNk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="Live Tv",Star Movies Select HD
@@ -279,7 +280,7 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201907/sony-yay.jpg" group-title="Live Tv",Sony YAY
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://roarmediazone.com/tv/weblogo/54.jpg" group-title="Live Tv",Cartoon Network
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8c/23/ff/8c23ffe477717c21de730f66685c3972.png" group-title="Live Tv",Nick
-http://103.81.104.118/hls/stream23.m3u8
+https://streamer-1.toffeelive.com/mobile_hls/nick/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png" group-title="Live Tv",Nick JR
 http://cdn.ihub.live:8080/Nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Live Tv",Nicklodian Sonic
