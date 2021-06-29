@@ -20,6 +20,8 @@ http://172.16.29.28/hls/sports3.m3u8
 https://streamer-1.toffeelive.com/mobile_hls/sports_live_01/5/6f305e9a1f5e0a7aa74007f844a5b016/auto
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Live Tv",DBC News
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Live Tv",DBC News
+https://m3u-editor.com/serve/13f690c0-d907-11eb-ac26-d1c4dbf4ec33
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Live Tv",News 24
 http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/playlist.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Live Tv",ATN News
