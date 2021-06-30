@@ -180,7 +180,7 @@ https://cutt.ly/mmoOv8b
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Live Tv",Zee Bangla Cinema
 http://103.81.104.118/hls/stream29.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Live Tv",Zee Bangla Cinema
-https://streamer-1.toffeelive.com/mobile_hls/zee_bangla/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+https://streamer-1.toffeelive.com/mobile_hls/zee_bangla_cinema/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://mpng.subpng.com/20181216/oea/kisspng-television-channel-kolkata-ruposhi-bangla-bengali-ruposhi-bangla-tv-serial-5c1687910255f3.6522175015449803690096.jpg" group-title="Live Tv",Ruposhi Bangla
 https://streamer-1.toffeelive.com/mobile_hls/ruposhi_bangla/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://img.favpng.com/1/21/22/mbc-bollywood-television-channel-logo-png-favpng-Dq3jrGkr5azGRmgNZQqhxPxM9.jpg" group-title="Live Tv",MBC Bollywood
@@ -221,7 +221,7 @@ https://cutt.ly/MmoSvVw
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-RFaKvuN86Gk-8VJ-CvQpng51VKqwh1xd1mFKo-50M26UySZ5t5DcqYMu&s=10" group-title="Live Tv",UTV Action
 http://103.81.104.118/hls/stream7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Live Tv",Sony Pix HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_pix/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+https://streamer-1.toffeelive.com/mobile_hls/sony_pix_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Live Tv",Sony Pix HD
 http://103.81.104.118/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="Live Tv",Star Movies  HD
@@ -265,7 +265,7 @@ http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Live Tv",Sony Six HD
 http://103.81.104.118/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Live Tv",Sony Six HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_six/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+https://streamer-1.toffeelive.com/mobile_hls/sony_six_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Live Tv",Sony Ten 1
 https://streamer-1.toffeelive.com/mobile_hls/sony_ten1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Live Tv",Sony Ten 1
@@ -298,6 +298,8 @@ https://streamer-1.toffeelive.com/mobile_hls/discovery/5/04dfcf51f5f17bc7739a41f
 http://103.81.104.118/hls/stream9.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.ibb.co/H4jzQnt/unnamed-removebg-preview-1.png",Discovery Science [ENGLISH]
 https://streamer-1.toffeelive.com/mobile_hls/dis_sci/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Live Tv", Discovery Turbo
+https://streamer-1.toffeelive.com/mobile_hls/dis_turbo/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://roarmediazone.com/tv/weblogo/23.jpg" group-title="Live Tv",Sony BBC Earth HD
 https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Live Tv",ANIMAL PLANET HD
@@ -343,6 +345,7 @@ http://103.81.104.118/hls/stream35.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://programmes.files.bbci.co.uk/programmes-frontend/images/logos/svg/bbc_world_news/service-5742221a20.svg" group-title="Live Tv",BBC WORLD
 http://103.81.104.118/hls/stream36.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Live Tv",DW
+https://streamer-1.toffeelive.com/mobile_hls/dw/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 ..........................................................MOVIES......................................................................
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fscottmendelson%2Ffiles%2F2016%2F05%2FAngry-Birds-final-quad.jpg" group-title="Animation Movie"s",Angry Birds (2016)
 http://10.10.10.10/FTP1/English%20Movies/2016/Angry%20Birds%20%282016%29%20%5B1080p%5D/Angry.Birds.2016.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
