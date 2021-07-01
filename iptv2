@@ -346,7 +346,9 @@ http://103.81.104.118/hls/stream35.m3u8
 http://103.81.104.118/hls/stream36.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Live Tv",DW
 https://streamer-1.toffeelive.com/mobile_hls/dw/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-..........................................................MOVIES......................................................................
+
+
+..........................................................MOVIES-Animation......................................................................
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fscottmendelson%2Ffiles%2F2016%2F05%2FAngry-Birds-final-quad.jpg" group-title="Animation Movie"s",Angry Birds (2016)
 http://10.10.10.10/FTP1/English%20Movies/2016/Angry%20Birds%20%282016%29%20%5B1080p%5D/Angry.Birds.2016.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn.ndtv.com/tech/gadgets/angry_birds_2_opinion.jpg" group-title="Animation Movie"s",Angry Birds 2 (2019)
@@ -359,9 +361,24 @@ http://10.10.10.10/FTP1/English%20Movies/2014/Rio%202%20%282014%29%20%5B1080p%5D
 http://10.10.10.10/FTP1/English%20Movies/1950-1999/Aladdin%20-%20The%20King%20Of%20thiefs%20%281996%29/Aladdin%20-%20The%20King%20Of%20thiefs%20%281996%29.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Arabiannights1.jpg" group-title="Animation Movie"s",Aladdin- Arabian Night (1996)
 http://10.10.10.10/FTP1/English%20Movies/1950-1999/Arabian%20Nights%20%281942%29/Arabian%20Nights.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://pics.filmaffinity.com/Shrek-903764423-large.jpg" group-title="Animation Movie"s",Aladdin- Shrek (2001)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://pics.filmaffinity.com/Shrek-903764423-large.jpg" group-title="Animation Movie"s", Shrek (2001)
 http://10.10.10.10/FTP1/English%20Movies/2001/Shrek%20%282001%29%20%5B1080p%5D/Shrek.2001.1080p.BluRay.x264.YIFY.mp4
 
+..........................................................MOVIES-Bangla......................................................................
+
+..........................................................MOVIES-Hindi......................................................................
+
+..........................................................MOVIES-English......................................................................
+
+..........................................................Series-Bangla......................................................................
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://bingeddata.s3.amazonaws.com/uploads/2021/06/Mohanagar.jpg" group-title="Animation Movie"s", Mohanagar S01 (2021)
+http://10.10.10.10/FTP1/Bangla%20Web%20Series/Mohanagar%20%282021%29%20Bangla%20S01%20WEB-DL%20%E2%80%93%20720P%20%E2%80%93%20x264.mkv
+..........................................................Series-Hindi......................................................................
+
+..........................................................Series-Indian Bangla......................................................................
+
+..........................................................Series-English......................................................................
 
 
 
