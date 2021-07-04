@@ -36,7 +36,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Live Tv",Ekattor
 http://cdn.ihub.live:8080/EkattorTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2016/12/1535_.jpg" group-title="Live Tv",DIPTO TV
-http://cdn.ihub.live:8080/j-DeeptoTV/tracks-v1a1/mono.m3u8
+http://103.106.243.163:8181//6/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Live Tv",Maasranga
 http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/playlist.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Live Tv",Channel I
@@ -49,7 +49,7 @@ http://103.81.104.118/hls/stream24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Live Tv",SATV
 http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Live Tv",NTV
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/5969
+http://103.106.243.163:8181//12/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/5c/48/545c484739183de76611413e5fc2a8ea.jpg" group-title="Live Tv",EKUSHEY TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Live Tv",ATN Bangla
@@ -264,7 +264,7 @@ http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Live Tv",Sony Six HD
 http://103.81.104.118/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Live Tv",Sony Six HD
-http://cdn.ihub.live:8080/SonySix/tracks-v1a1/mono.m3u8
+http://103.106.243.163:8181//18/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Live Tv",Sony Ten 1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Live Tv",Sony Ten 1
 http://103.81.104.118/hls/stream40.m3u8
