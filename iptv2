@@ -337,7 +337,24 @@ http://10.10.10.10/FTP1/Animation%20Movies/2020/The%20Croods%20A%20New%20Age%202
 ..........................................................MOVIES-Bangla......................................................................
 
 ..........................................................MOVIES-Hindi......................................................................
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFiZmQ5N2UtMDI3ZS00Yjc0LWJhNTgtYWQzODNmMWVhMzU1XkEyXkFqcGdeQXVyODM5Mzk0MTU@._V1_.jpg" group-title="Hindi Movie's", Aakhet (2021)
+http://10.10.10.10/FTP1/Hindi%20Movies/2021/Aakhet%20%282021%29%201080p%20WEB%20DL%20-%20X264%20-%20AAC%20-%20DUSIcTv.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://www.themoviedb.org/t/p/w500/5KHjF8H2bqvQdmvkmeAlFjKXkmB.jpg" group-title="Hindi Movie's", Ajeeb Daastaans (2021)
+http://10.10.10.10/FTP1/Hindi%20Movies/2021/Ajeeb%20Daastaans%202021%20Hindi%201080P%20NF%20WEBDL%20x264%20DD%205.1%20AVC%20MSUBS%20%5Bshadow%5D.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://static.toiimg.com/thumb/msid-81544623,width-219,height-317,imgsize-32493/81544623.jpg" group-title="Hindi Movie's", Anu And Arjun (2021)
+http://10.10.10.10/FTP1/Hindi%20Movies/2021/Anu.and.Arjun.2021.1080p.Hindi.HQ.PreDvDRip.x264-Top10torrent.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="hhttps://cdn.bollywoodmdb.com/movies/largethumb/2019/fauji-calling/fauji-calling-poster-3.jpg" group-title="Hindi Movie's", Fauji Calling (2021)
+http://10.10.10.10/FTP1/Hindi%20Movies/2021/Fauji%20calling%20%282021%29%20Hindi%20720p%20PreDVDRip%20x264%20AAC%20-%20CineVood.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Kaagaz_film_poster.jpg" group-title="Hindi Movie's", Kaagaz (2021)
+http://10.10.10.10/FTP1/Hindi%20Movies/2021/Kaagaz%20%282021%29%201080p%20WEBDL.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFmOTQxNTMtMTU0Mi00OTUwLWE4OTYtNDRlZjQxNTM0Nzk1XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg" group-title="Hindi Movie's", Koi Jaane Na (2021)
+http://10.10.10.10/FTP1/Hindi%20Movies/2021/Koi%20Jaane%20Na%20%282021%29%20Hindi%201080P%20Predvd%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn.bollywoodmdb.com/movies/largethumb/2014/mumbai-saga/mumbai-saga-poster-7.jpg" group-title="Hindi Movie's", Mumbai Saga (2021)
+http://10.10.10.10/FTP1/Hindi%20Movies/2021/Mumbai.Saga.2021.1080p.AMZN.WEB-DL.DDP5.1.x265-_ShiNobi_.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Radhe_film_poster.jpg" group-title="Hindi Movie's", Radhe (2021)
+http://10.10.10.10/FTP1/Hindi%20Movies/2021/Radhe.2021.1080p.ZEE5.WEB-DL.AAC2.0.H.264-CiNEMAX.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn.bollywoodmdb.com/movies/largethumb/2018/saina/saina-poster-9.jpg" group-title="Hindi Movie's", Saina (2021)
+http://10.10.10.10/FTP1/Hindi%20Movies/2021/Saina%20%282021%29%20Hindi%201080p%20HQ%20PreDVD%20Rip%20x264%20AAC%20-%20CineVood%20%281%29.mkv
 ..........................................................MOVIES-English......................................................................
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://imagetot.com/images/2021/05/03/c403182600ec95cd429963bb6b22ea15.jpg" group-title="Animation Movie"s", The Mitchells vs The Machines (2021)
 http://10.10.10.10/FTP1/English%20Movies/2021/The.Mitchells.vs.The.Machines.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.HDR.HEVC-CMRG/The.Mitchells.vs.The.Machines.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.HDR.HEVC-CMRG.mkv
