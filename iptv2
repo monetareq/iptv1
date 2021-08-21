@@ -16,6 +16,7 @@ https://rhridoy136.shortcm.li/iqrabangla.m3u8
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
+http://bd.digiiptv.net:25461/moznu43/PA2443/525
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
 http://172.16.29.28/hls/sports3.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Live Tv",DBC News
@@ -33,6 +34,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/playlist.m3
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Live Tv",CHANNEL 24
 http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Live Tv",Ekattor
+http://bd.digiiptv.net:25461/moznu43/PA2443/547
 #EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2016/12/1535_.jpg" group-title="Live Tv",DIPTO TV
 http://iptvbd.jagobd.com:1931/boishakhi/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Live Tv",Maasranga
@@ -47,18 +49,19 @@ http://103.81.104.118/hls/stream24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Live Tv",SATV
 http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Live Tv",NTV
-https://cutt.ly/sQPioJV
+http://bd.digiiptv.net:25461/moznu43/PA2443/540
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/5c/48/545c484739183de76611413e5fc2a8ea.jpg" group-title="Live Tv",EKUSHEY TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Live Tv",ATN Bangla
 http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Live Tv",Desh TV
+http://bd.digiiptv.net:25461/moznu43/PA2443/537
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Live Tv",Banglavision
 http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/playlist.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Live Tv",Channel 9
 http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-rtv-png-9.png" group-title="Live Tv",RTV
-https://is.gd/uzmL9M
+http://bd.digiiptv.net:25461/moznu43/PA2443/541
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Live Tv",My TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg" group-title="Live Tv",Bijoy TV
@@ -72,7 +75,7 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/5955
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Live Tv",BTV World
 http://iptvbd.jagobd.com:1931/boishakhi/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="Live Tv",Asian TV
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/5948
+http://bd.digiiptv.net:25461/moznu43/PA2443/527
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Live Tv",Ananda TV
 http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Live Tv",Sangsad TV
