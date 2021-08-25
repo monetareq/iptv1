@@ -145,7 +145,8 @@ http://173.199.120.51/hls/chc.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/ColorsRisthey.png",Colors Rishtey
 #EXTINF:-1 tvg-id="ext" tvg-name="&tv (2)" tvg-logo="https://i.pinimg.com/600x315/7b/53/9a/7b539a152a5daebf739fe1cb578975f9.jpg" group-title="Live Tv",&tv
 http://173.199.120.51/hls/andtv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="&tv (2)" tvg-logo="https://i.pinimg.com/600x315/7b/53/9a/7b539a152a5daebf739fe1cb578975f9.jpg" group-title="Live Tv",&tv
+#EXTINF:-1 tvg-id="ext" tvg-name="&tv (2)" tvg-logo="https://i.pinimg.com/600x315/7b/53/9a/7b539a152a5daebf739fe1cb578975f9.jpg" group-title="Live Tv",&tv HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/16964
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Live Tv",Zee Tv HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Live Tv",Zee Tv HD
@@ -155,6 +156,8 @@ http://103.106.243.163:8989/zeetv/index.m3u8
 http://173.199.120.51/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY
 http://103.106.243.163:8989/sony-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://roarmediazone.com/tv/weblogo/32.jpg" group-title="Live Tv",Sony SAB
 http://208.115.215.42/Sony_Sab_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Jalsha Movies HD
@@ -166,6 +169,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 http://173.199.120.51/hls/ruposhibangla.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://img.favpng.com/1/21/22/mbc-bollywood-television-channel-logo-png-favpng-Dq3jrGkr5azGRmgNZQqhxPxM9.jpg" group-title="Live Tv",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://pbs.twimg.com/media/BdSe3pzCUAAzSsk.png" group-title="Live Tv",GEM Bollywood HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/5481
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Live Tv",Sony Max
 http://103.81.104.118/hls/sonymax.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Live Tv",SONY MAX HD
@@ -246,6 +251,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Live Tv",Thrill 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="Live Tv",Zee Cafe
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.ibb.co/tcDRYrZ/Png-Item-236241.png",FOX HD
+http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="Live Tv",Colours Infinity
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://is.gd/Phwgup",Comedy Central HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/800/67819_romedy-now.png.jpg" grouptitle="Live Tv",Romedy Now
