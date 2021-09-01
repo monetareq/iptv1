@@ -155,7 +155,7 @@ http://103.106.243.163:8989/zeetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY
 http://173.199.120.51/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY
-http://103.106.243.163:8989/sony-hd/index.m3u8
+http://137.59.155.77:8088/hls/16sonyentertainment.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://roarmediazone.com/tv/weblogo/32.jpg" group-title="Live Tv",Sony SAB
@@ -172,15 +172,12 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:0 tvg-country="IR" tvg-logo="https://pbs.twimg.com/media/BdSe3pzCUAAzSsk.png" group-title="Live Tv",GEM Bollywood HD
 http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/5481
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Live Tv",Sony Max
-http://103.81.104.118/hls/sonymax.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Live Tv",SONY MAX HD
-http://103.106.243.163:8989/setmax/index.m3u8
+http://137.59.155.77:8088/hls/14sonymax.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Live Tv",Zee Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Live Tv",Zee Cinema
-http://103.106.243.163:8989/zee-cinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Live Tv",Zee Cinema HD
-http://103.81.104.118/hls/stream25.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Live Tv",Star Gold 
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Live Tv",Star Gold HD
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Live Tv",Star Gold HD
