@@ -4,27 +4,19 @@ http://tempe.jagobd.com:1932/iptv/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pJhdZme.png" group-title="Live Tv", Al Dawah 
 http://iptvbd.jagobd.com:1931/boishakhi/dawah-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png"group-title="Live Tv",Peace TV Bangla
-http://173.199.120.51/hls/peacetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgHqXE5.png" group-title="Live Tv", Sunnah TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t4FS3Hr.png" group-title="Live Tv", Quran TV
-https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8hos05r.png" group-title="Live Tv", Ary QTV
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ðŸ•‹ Makkah Live" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Saudi-Quran-Tv-Frequency-2yhl8od1usadqgkqyd0rgq.png" group-title="Live Tv",Makkah Live
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=5-mp4a_97200=2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ðŸ•Œ Medina Live" tvg-logo="https://itel.tv/itelmeta/images/channel_logo/MADINA-TV.jpg" group-title="Live Tv",Madina Live
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iqra Bangla TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="Live Tv",Iqra Bangla TV
-https://rhridoy136.shortcm.li/iqrabangla.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniK2fdrV2deS_O6jtRD2382-d43D5WL1Szhb9IyNg=s900-c-k-c0x00ffffff-no-rj" group-title="Live Tv",Rabbit Hole Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
 http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
-https://tv.bdtv.xyz:2096/live/tsports/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
 http://137.59.155.77:8088/hls/01gazitv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
-https://tv.bdtv.xyz:2096/live/gazitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
 http://172.16.29.28/hls/sports3.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Live Tv",DBC News
@@ -54,7 +46,6 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Live Tv",Nagorik TV
 http://173.199.120.51/hls/nagorik.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Live Tv",Duronto TV
-http://103.106.243.163:8989/duronto-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Live Tv",SATV
 http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Live Tv",NTV
@@ -108,13 +99,11 @@ http://173.199.120.51/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha HD
 http://137.59.155.77:8088/hls/10starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha HD
-http://103.106.243.163:8989/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Live Tv",Zee Bangla 
 http://173.199.120.51/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Live Tv",Zee Bangla HD
 http://137.59.155.77:8088/hls/12zeebangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Live Tv",Zee Bangla HD
-http://103.106.243.163:8989/zee-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Live Tv",Colors Bangla HD
 http://173.199.120.51/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Live Tv",Colors Bangla HD
