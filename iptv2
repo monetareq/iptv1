@@ -288,6 +288,7 @@ http://137.59.155.77:8088/hls/08starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Live Tv",Star Sports SELECT 2
 http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Live Tv",PTV SPORTS
+http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Live Tv",WILLOW HD
 http://stop.next-code.xyz:2052/live/Nador/66263/19344.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1d6be39-01ed-4b85-b370-8f93a372f1cd_1200x600.jpeg" group-title="Live Tv",ESPN
