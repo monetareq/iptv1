@@ -184,10 +184,18 @@ http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Live Tv",Star Gold 
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Live Tv",Star Gold HD
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Live Tv",Star Gold HD
-http://137.59.155.77:8088/hls/11stargold.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Star_Gold_Select_HD.png/revision/latest?cb=20190810163831" group-title="Live Tv",Star Gold Select  HD
 #EXTINF: -1 tvg-logo="https://etimg.etb2bimg.com/photo/73770383.cms" group-title="Live Tv", STAR GOLD 2
+http://103.153.39.34:8000/play/a06p/index.m3u8
 #EXTINF: -1 tvg-logo="https://etimg.etb2bimg.com/photo/73770383.cms" group-title="Live Tv", STAR GOLD 2
+#EXTINF:-1 tvg-id="ADNGold.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/UzPPjoH.jpg" group-title="Live Tv",ADN Gold 
+http://cdn.asianetmobiletvplus.com/channels/adngold_dibbcspwxywdcuwawgrvurjwitwbiksl/playlist.m3u8
+#EXTINF:-1 tvg-id="ACVUtsav.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/LLN585Y.png" group-title="Live Tv",ACV Utsav 
+http://cdn.asianetmobiletvplus.com/channels/acvutsav_021c9292219a98f899a7b74f0f34baa7/playlist.m3u8
+#EXTINF:-1 tvg-id="ACVPlus.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/DjtPQeg.jpg" group-title="Live Tv",ACV Plus 
+http://cdn.asianetmobiletvplus.com/channels/acvplus_ef22daf97d61acb4bf52376c4105ad02/playlist.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/vwkjtRT.png" group-title="Live Tv",B4U Kadak 
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/StarUtsavMoviesLogo.jpg/220px-StarUtsavMoviesLogo.jpg" group-title="Live Tv",Star Utasav Movies 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Utsav_Gold_HD_logo.svg/revision/latest?cb=20210126011353" group-title="Live Tv",UTSAV Gold HD
 http://stop.next-code.xyz:2052/live/Nador/66263/19345.m3u8
@@ -212,12 +220,12 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.uk" tvg-name="B4U Movies (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Live Tv",B4U Movies
 http://173.199.120.51/hls/b4umovies.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/5eJJpFw.png" group-title="Live Tv", MAHA MOVIE
-https://m3u-editor.com/serve/75004f40-2078-11ec-8a77-3d108807d874/392257077
-#EXTINF: -1 tvg-logo="https://i.imgur.com/EIRUPv7.jpg" group-title="Live Tv", WoW CINEMA
-https://m3u-editor.com/serve/75004f40-2078-11ec-8a77-3d108807d874/392257078
-#EXTINF: -1 tvg-logo="https://i.imgur.com/kBOiQBW.jpg" group-title="Live Tv", BOX CINEMA
-https://m3u-editor.com/serve/75004f40-2078-11ec-8a77-3d108807d874/392257079
+#EXTINF:-1 tvg-id="MahaMovie.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/hpShFDL.png" group-title="Live Tv",Maha Movie 
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1 tvg-id="CaptainTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/UXg6sac.png" group-title="Live Tv",Captain TV 
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/F7uHOyA.png" group-title="Live Tv",Manoranjan Movies 
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg",UTV
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-RFaKvuN86Gk-8VJ-CvQpng51VKqwh1xd1mFKo-50M26UySZ5t5DcqYMu&s=10" group-title="Live Tv",UTV Action
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Live Tv",Sony Pix HD
@@ -239,6 +247,8 @@ http://103.106.243.163:8989/mn-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Live Tv",& Prive HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="Live Tv",MOVIES NOW HD
 http://103.153.39.34:8000/play/a050/index.m3u8
+#EXTINF:-1 tvg-id="Filmeraa.in" tvg-country="IN" tvg-language="" tvg-logo="https://i.ytimg.com/vi/QkFdp8JzSQg/hqdefault.jpg" group-title="Live Tv",Filmeraa 
+https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Live Tv",Thrill 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="Live Tv",Zee Cafe
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.ibb.co/tcDRYrZ/Png-Item-236241.png",FOX HD
@@ -321,9 +331,7 @@ http://103.159.4.38:8080/ENTEMENT-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj0CeO2Dsi0GQc0Ej_acUTZuYWnn_BTP7baT7wIaA=s900-c-k-c0x00ffffff-no-rj" group-title="Live Tv",MTV BEATS
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8d/b2/71/8db27137c9202ccfba2175e13883facf.png" group-title="Live Tv",DHOOM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Live Tv", 9XM 
-http://103.81.104.118/hls/stream4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Live Tv", Zoom 
-http://103.81.104.118/hls/stream8.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.ibb.co/nkdmwSV/images.jpg",9x Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.ibb.co/M16djBW/9xjhakaas-purple.png",9x Jhakaas
@@ -331,7 +339,6 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.ibb.co/4Mb5cnt/unnamed-removebg-preview.png",Zing
-https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925904402s.png" group-title="Live Tv",SANGEET BANGLA
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/ARY_Musik_logo.png/220px-ARY_Musik_logo.png",Ary Music
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png",Hum Masala
