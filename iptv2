@@ -208,6 +208,7 @@ https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tellyshowupdates.com/wp-content/uploads/2018/03/zeeclassic_new-1.png" group-title="Live Tv",Zee Classic
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c92e7e694fe70f730ff2d8/1565807028240/505389b7047254c59c7c346bd679a927.jpg" group-title="Live Tv",Zee AnmolCinema
 #EXTINF:-1 tvg-id="RishteyCineplex.uk" tvg-name="Rishtey Cineplex" tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/04/rishtey-cineplex.jpg?w=640" group-title="Live Tv",Rishtey Cineplex
+https://m3u-editor.com/serve/0de0dd80-2d2e-11ec-b41e-63528f564ea3/401958142
 #EXTINF:-1 tvg-id="SonyMax2.uk" tvg-name="Sony Max 2 (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Live Tv",Sony Max 2
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Live Tv",Sony Wah
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Live Tv",Sony Wah
@@ -222,6 +223,10 @@ https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 http://173.199.120.51/hls/b4umovies.m3u8
 #EXTINF:-1 tvg-id="MahaMovie.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/hpShFDL.png" group-title="Live Tv",Maha Movie 
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EIRUPv7.jpg" group-title="Live Tv", WoW CINEMA
+https://m3u-editor.com/serve/0de0dd80-2d2e-11ec-b41e-63528f564ea3/401958145
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kBOiQBW.jpg" group-title="Live Tv", BOX CINEMA
+https://m3u-editor.com/serve/0de0dd80-2d2e-11ec-b41e-63528f564ea3/401958146
 #EXTINF:-1 tvg-id="CaptainTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/UXg6sac.png" group-title="Live Tv",Captain TV 
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/F7uHOyA.png" group-title="Live Tv",Manoranjan Movies 
@@ -237,7 +242,8 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="Live Tv",HBO Hits
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="Live Tv",MNX 
-http://103.106.243.163:8989/mn-hd/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GGwd9d5.jpg" group-title="Live Tv", My Cinema Europe
+https://m3u-editor.com/serve/0de0dd80-2d2e-11ec-b41e-63528f564ea3/401958150
 #EXTINF:-0 tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg" group-title="Live Tv",Lotus Maccau
 #EXTINF:-1 tvg-logo="https://d210l363atydpf.cloudfront.net/wp-content/uploads/2012/02/dubaione.png" group-title="Live Tv",Dubai One
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="Live Tv",MBC 2 HD
