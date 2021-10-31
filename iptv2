@@ -104,7 +104,12 @@ https://cdn.appv.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://cdn.appv.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://tv.bdtype.com/uploads/tv_image/my-cinema.png" group-title="Live Tv",My Cinema
 https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8?Live-TV™
+#EXTINF:0 tvg-logo="https://i.playboard.app/p/AATXAJyTGGvy_1ertEhZdTTtSxJ0n1FOTbQ_snSMjWXc/default.jpg" group-title="Live Tv",AAMAR BANGLA
+https://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ42mUh5g9tGAhhM8721218Pwjz6ChrkcIM89NUPb0SePsOZjLXFMeofsfK-8jLWJfLYfM&usqp=CAU" group-title="Live Tv",DD Bangla
+http://jo123.biz/jweb/m3u8.php?c=DD_Bangla&q=600&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Live Tv", DD National
+http://jo123.biz/jweb/m3u8.php?c=DD_National&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha HD
@@ -121,7 +126,6 @@ https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Live Tv",Sony Aath
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Logo_of_Sun_Bangla.jpg" group-title="Live Tv",Sun Bangla
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQohbRTLJWveaXgHR_W1GaOXiYEDQ80QQnbeg&usqp=CAU"group-title="Live Tv",Enter 10 Bangla
-http://jo123.biz/jweb/m3u8.php?c=Enterr_10&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/Star-plus-hd.jpg" group-title="Live Tv",STAR PLUS HD
 #EXTINF:-1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/Star-plus-hd.jpg" group-title="Live Tv",STAR PLUS HD
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.ibb.co/8DybnXx/2021-04-27-13-50-23.png",Star Bharat HD
@@ -194,10 +198,15 @@ http://jo123.biz/jweb/m3u8.php?c=Zee_Classic&q=600&e=.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bioskop.png" group-title="Live Tv",Zee Bioskop
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c92e7e694fe70f730ff2d8/1565807028240/505389b7047254c59c7c346bd679a927.jpg" group-title="Live Tv",Zee AnmolCinema
+http://jo123.biz/jweb/m3u8.php?c=Zee_Anmol_Cinema&q=600&e=.m3u8
 #EXTINF:-1 tvg-id="RishteyCineplex.uk" tvg-name="Rishtey Cineplex" tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/04/rishtey-cineplex.jpg?w=640" group-title="Live Tv",Rishtey Cineplex
+http://jo123.biz/jweb/m3u8.php?c=Rishtey_Cineplex&q=600&e=.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Live Tv",Sony Wah
-#EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Live Tv",Sony Wah
+http://jo123.biz/jweb/m3u8.php?c=Sony_Wah&q=600&e=.m3u8
+#EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce18ead0e21236eb432/1565806597231/569ccce18ead0e21236eb432.jpg" group-title="Live Tv",Enter 10 Movies
+http://jo123.biz/jweb/m3u8.php?c=Enterr_10&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="Live Tv",Colours Cineplex
+http://jo123.biz/jweb/m3u8.php?c=Colors_Cineplex_HD&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Live Tv",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="& Pictures HD " tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/07/Xplorhd.jpg" group-title="Live Tv",& Explore HD
@@ -205,10 +214,12 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 http://jo123.biz/jweb/m3u8.php?c=And_Pictures_HD&q=600&e=.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="& Pictures HD " tvg-logo="https://priyadarshinias.files.wordpress.com/2017/05/6dilo3to.png" group-title="Live Tv",& Pictures HD
 #EXTINF:-1 tvg-id="B4UMovies.uk" tvg-name="B4U Movies (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Live Tv",B4U Movies
+http://jo123.biz/jweb/m3u8.php?c=B4U_Movies&q=600&e=.m3u8
 #EXTINF:-1 tvg-id="MahaMovie.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/hpShFDL.png" group-title="Live Tv",Maha Movie 
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EIRUPv7.jpg" group-title="Live Tv", WoW CINEMA
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kBOiQBW.jpg" group-title="Live Tv", BOX CINEMA
+http://jo123.biz/jweb/m3u8.php?c=Box_Cinema&q=600&e=.m3u8
 #EXTINF:-1 tvg-id="CaptainTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/UXg6sac.png" group-title="Live Tv",Captain TV 
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/F7uHOyA.png" group-title="Live Tv",Manoranjan Movies 
@@ -254,23 +265,37 @@ http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/MBC_3_Transparent_Background_Logo.png" group-title="Live Tv",MBC3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201907/sony-yay.jpg" group-title="Live Tv",Sony YAY
+http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8c/23/ff/8c23ffe477717c21de730f66685c3972.png" group-title="Live Tv",Nick
+http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8c/23/ff/8c23ffe477717c21de730f66685c3972.png" group-title="Live Tv",Nick HD+
+http://jo123.biz/jweb/m3u8.php?c=Nick_HD_Plus&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Live Tv",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Live Tv",Cartoon Network
+http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png" group-title="Live Tv",Nick JR
+http://jo123.biz/jweb/m3u8.php?c=Nick_Junior&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Live Tv",Nicklodian Sonic
+http://jo123.biz/jweb/m3u8.php?c=Sonic_Bangla&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="Live Tv",POGO
+http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/03/disney-channel-logo.jpg" group-title="Live Tv",Disneep
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Live Tv", DD Sports
+http://jo123.biz/jweb/m3u8.php?c=DD_Sports&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Live Tv",Ten Cricket
 http://mu03ye.wanicelife.com:8880/live/YALM4649/y6q3fhltq/55260.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Live Tv",Sony Six HD
+http://jo123.biz/jweb/m3u8.php?c=Six_HD&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Live Tv",Sony Six HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Live Tv",Sony Ten 1
+http://jo123.biz/jweb/m3u8.php?c=Ten_HD&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Live Tv",Sony Ten 1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Live Tv",Sony Ten 2
+http://jo123.biz/jweb/m3u8.php?c=Ten2_HD&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Live Tv",Sony Ten 2
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_439/PORTRAIT/fwd2lXFg.png" group-title="Live Tv",Sony Ten 3
+http://jo123.biz/jweb/m3u8.php?c=Ten_3&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_439/PORTRAIT/fwd2lXFg.png" group-title="Live Tv",Sony Ten 3
 #EXTINF:-1,tvg-logo="https://cdn.clipart.email/b504e9913288900ca726a0a2b200e17b_star-sports-1-logopedia-fandom_250-196.png" group-title="Live Tv",Star Sports 1
 #EXTINF:-1,tvg-logo="https://cdn.clipart.email/b504e9913288900ca726a0a2b200e17b_star-sports-1-logopedia-fandom_250-196.png" group-title="Live Tv",Star Sports 1 HD
@@ -284,6 +309,8 @@ http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Live Tv",WILLOW HD
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Live Tv", Eurosport HD
+http://jo123.biz/jweb/m3u8.php?c=Dsports_HD&q=600&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="Live Tv", Jio Football HD
 http://jo123.biz/jweb/m3u8.php?c=Jio_Football&q=600&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="Live Tv", Jio Cricket English HD
@@ -297,10 +324,15 @@ http://jo123.biz/jweb/m3u8.php?c=Jio_Football_2&q=600&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="Live Tv", Jio Football 3 HD
 http://jo123.biz/jweb/m3u8.php?c=Jio_Football_3&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1d6be39-01ed-4b85-b370-8f93a372f1cd_1200x600.jpeg" group-title="Live Tv",ESPN
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Monde.png" group-title="Live Tv", TV5 Monde
+http://jo123.biz/jweb/m3u8.php?c=TV_5_Monde&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="Live Tv",History TV
+http://jo123.biz/jweb/m3u8.php?c=History_18_Hindi&q=600&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" grouptitle="Live Tv",Travel XP
+http://jo123.biz/jweb/m3u8.php?c=Travel_XP&q=600&e=.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="Live Tv",AXN HD
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="Live Tv",TLC HD
+http://jo123.biz/jweb/m3u8.php?c=TLC_HD_World&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9b/4f/84/9b4f843fa6f7d9ab08b2fd9fe9f9457b.png" group-title="Live Tv",Fox Life HD
 #EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Zest-Logo.jpg" group-title="Live Tv",Zee Zest
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Live Tv",National Geographic HD
@@ -308,13 +340,25 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nationalgeographicpartners.com/app/uploads/2020/11/nat-geo-wild-1.jpg" group-title="Live Tv",National Geographic Wild HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Live Tv",Discovery 
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Live Tv",Discovery 
+http://jo123.biz/jweb/m3u8.php?c=Discovery_HD_World&q=600&e=.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.ibb.co/H4jzQnt/unnamed-removebg-preview-1.png",Discovery Science 
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Science&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Live Tv", Discovery Turbo
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Turbo&q=600&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://roarmediazone.com/tv/weblogo/23.jpg" group-title="Live Tv",Sony BBC Earth 
+http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_SD&q=600&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://roarmediazone.com/tv/weblogo/23.jpg" group-title="Live Tv",Sony BBC Earth HD
+http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD_English&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Live Tv",ANIMAL PLANET HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e901782c5ad3f413434f76feba4126576823fdf44b34911850a0dc345c440cee76ee92138c664006a29d4792957a13ce9f386d0f81e4bad707c643dffddbb332a702f41eb8a4177934010da02cd85807927addfbee3fb015fe7846c156d439bd0f9899a593&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Live Tv",ANIMAL PLANET HD
+http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=600&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" group-title="Live Tv", Care World
+http://jo123.biz/jweb/m3u8.php?c=Care_World&q=600&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Live Tv", Food Food
+http://jo123.biz/jweb/m3u8.php?c=Food_Food&q=600&e=.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://is.gd/zg1dI5",E24 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj0CeO2Dsi0GQc0Ej_acUTZuYWnn_BTP7baT7wIaA=s900-c-k-c0x00ffffff-no-rj" group-title="Live Tv",MTV BEATS
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8d/b2/71/8db27137c9202ccfba2175e13883facf.png" group-title="Live Tv",DHOOM
@@ -341,7 +385,8 @@ https://cdn.appv.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Live Tv",DW
 https://cdn.appv.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/live-orgin/dwnews.stream/chunks.m3u8
-
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="Live Tv", Wion
+http://jo123.biz/jweb/m3u8.php?c=Wion&q=600&e=.m3u8
 
 ..........................................................MOVIES-Animation......................................................................
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fscottmendelson%2Ffiles%2F2016%2F05%2FAngry-Birds-final-quad.jpg" group-title="Animation Movie"s",Angry Birds (2016)
