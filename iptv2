@@ -414,340 +414,42 @@ http://103.167.190.250/hls/bbcworld.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="Live Tv", Wion
 
-..........................................................MOVIES-Animation......................................................................
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fscottmendelson%2Ffiles%2F2016%2F05%2FAngry-Birds-final-quad.jpg" group-title="Animation Movie"s",Angry Birds (2016)
-http://10.10.10.10/FTP1/English%20Movies/2016/Angry%20Birds%20%282016%29%20%5B1080p%5D/Angry.Birds.2016.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWMxY2EzNGMtMzY4MC00YzZjLTk5NGMtODQ5OTcxZmI0ZmNiXkEyXkFqcGdeQXVyMzk2ODAwMjQ@._V1_.jpg" group-title="Animation Movie"s",Around the World in 80 Days (2021)
-http://10.10.10.10/FTP1/Animation%20Movies/2021/Around.the.World.in.80.Days.2021.1080p.WEB-DL.DD5.1.H.264-EVO%5BTGx%5D/Around.the.World.in.80.Days.2021.1080p.WEB-DL.DD5.1.H.264-EVO.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="http://images.prints-and-posters.com//albums/3/3875/movie-poster-rio-83591.jpg" group-title="Animation Movie"s",RIO (2011)
-http://cdn1.moviehaat.net:8888/AnimationMovie/Rio%201%202011%201080p%20BluRay%20x264%20YIFY.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="http://4.bp.blogspot.com/-QN3XTZvw99Y/U-EBkJx2l3I/AAAAAAAACvs/aqDJ-vrQ5qs/s1600/rio-2-movie-logo-2014-wallpaper.jpg" group-title="Animation Movie"s",RIO 2 (2014)
-http://10.10.10.10/FTP1/English%20Movies/2014/Rio%202%20%282014%29%20%5B1080p%5D/Rio.2.2014.1080p.BluRay.x264.YIFY.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BODFkMjE5YzAtMDFkOC00ZDNhLTkwNmQtODk1Y2VhNThlNWJhXkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_.jpg" group-title="Animation Movie"s",Aladdin- The king of Thives (1996)
-http://10.10.10.10/FTP1/English%20Movies/1950-1999/Aladdin%20-%20The%20King%20Of%20thiefs%20%281996%29/Aladdin%20-%20The%20King%20Of%20thiefs%20%281996%29.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Arabiannights1.jpg" group-title="Animation Movie"s",Aladdin- Arabian Night (1996)
-http://10.10.10.10/FTP1/English%20Movies/1950-1999/Arabian%20Nights%20%281942%29/Arabian%20Nights.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://pics.filmaffinity.com/Shrek-903764423-large.jpg" group-title="Animation Movie"s", Shrek (2001)
-http://10.10.10.10/FTP1/English%20Movies/2001/Shrek%20%282001%29%20%5B1080p%5D/Shrek.2001.1080p.BluRay.x264.YIFY.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_onward_19732_09862641.jpeg" group-title="Animation Movie"s", Onward (2020)
-http://10.10.10.10/FTP1/Animation%20Movies/2020/Onward.2020.1080p.10Bit.WEBRip.HEVC.x265.DD5.1.DSyS/Onward.2020.1080p.10Bit.WEBRip.HEVC.x265.DD5.1.DSyS.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://img.yts.mx/assets/images/movies/the_boss_baby_family_business_2021/large-cover.jpg" group-title="Animation Movie"s", The Boss Baby Family Bussines (2021)
-http://10.10.10.10/FTP1/Animation%20Movies/2020/The%20Boss%20Baby%20Family%20Business%202021%201080p%20PCOK%20WEB-Rip.DDP.5.1.H.265%20~_%5BTasin%5D-.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU1NGNiYzYtMTQ2Ni00M2ZlLTg0N2QtMDFhMzNjNzcyMGYyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="Animation Movie"s", The Croods A New Age (2020)
-http://10.10.10.10/FTP1/Animation%20Movies/2020/The%20Croods%20A%20New%20Age%202020%201080P%2012Bit%20BluRay%20AAC%206CH%20H265%20%5BB3%40ST%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdjMGY2YjgtZjMxNC00MzFlLWI2OTgtMThkOWNjOTcwYTE1XkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_FMjpg_UX1000_.jpg" group-title="Animation Movie"s", journey to the west the reincarnation demon king (2021)
-http://10.10.10.10/FTP1/Animation%20Movies/2021/Journey%20To%20The%20West%20The%20Reincarnation%20Of%20The%20Demon%20King%20%282021%29%20%5B1080p%5D%20%5BBluRay%5D%20%5B5.1%5D%20%5BYTS.MX%5D/Journey.To.The.West.The.Reincarnation.Of.The.Demon.King.2021.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdhNDM5YmEtOWFhZS00NjQwLTg3ZTQtMGI2OTNhZjQ2OGQxXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg" group-title="Animation Movie"s", Rumble (2021)
-http://10.10.10.10/FTP1/Animation%20Movies/2021/Rumble%202021%201080P%20AMZN%20WEB%20RiP%20DDP5%201%20H%20265%20HEVC%20ESUB%20-%20%5BHasan%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTgzYzA3NWItYzkxZC00OWQ2LTkxNTItODMyNmMxNTNkZTMxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="Animation Movie"s", Sing 2 (2021)
-http://10.10.10.10/FTP1/Animation%20Movies/2021/Sing.2.2021.1080p.%5BFreedrivemovie.com%5D.WEBRip.English.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFkODAxZjEtMTYzMy00NzNmLWJhNjItOWFmNmY1NThjYzgwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="Animation Movie"s", Trollehunter-Rise of the titans (2021)
-http://10.10.10.10/FTP1/Animation%20Movies/2021/Trollhunters-%20Rise%20of%20the%20Titans%202021%201080p%20NF%20WEB-DL%20DDP5.1%20H265%20HEVC%20%20ESUB%20-%20%5BHasan%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://pics.filmaffinity.com/Encanto-153413687-large.jpg" group-title="Animation Movie"s", Encanto (2021)
-http://10.10.10.10/FTP1/Animation%20Movies/2021/Encanto%202021%201080P%20DSNP%20WEBRiP%20x265%20DD%205.1%20HEVC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA4NmFiZjQtYWI2NC00Y2Y0LWI5M2ItOTcwZmM5YzliOGViXkEyXkFqcGdeQXVyNjMwMTM0MTA@._V1_.jpg" group-title="Animation Movie"s", the ice age adventures of buck wild (2022)
-http://10.10.10.10/FTP1/Animation%20Movies/2022/The%20Ice%20Age%20Adventures%20of%20Buck%20Wild%202022%201080p%20DSNP%20WEB-DL%20DDP5.1%20H%20265%20HEVC%20ESUB-%5BHasan%5D.mkv
-..........................................................MOVIES-Bangla......................................................................
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://www.channelionline.com/wp-content/uploads/2021/09/arnob21.jpg" group-title="Bangla Movies", Adhkhana Valo Chele Adha Mostan (2021)
-http://10.10.10.10/FTP1/Bangla%20Movies/2021/Adhkhana%20Bhalo%20Chele%20Adha%20Mostaan%202021%20720p%5BFreeDriveMovie.com%5DAAC%20x264.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cinemabaaz.xyz/wp-content/uploads/2021/04/Haldaa-2017-scaled.jpg" group-title="Bangla Movies", HALDAA (2017)
-http://10.10.10.10/FTP1/Bangla%20Movies/2021/Haldaa%5BFreeDriveMovie.com%5D1920x1080p.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjRkYjhkYmEtZDA1Yy00NTc5LThhODMtYmU4MjBlZDNjMWU4XkEyXkFqcGdeQXVyNjQxNDYyODI@._V1_.jpg" group-title="Bangla Movies", khachar bhitor ochin pakhi (2021)
-http://10.10.10.10/FTP1/Bangla%20Movies/2021/Khachar.Bhitor.Ochin.Pakhi.2021.Bangla.Web-DL.720p.%5BFreeDriveMovie.com%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cinemabaaz.xyz/wp-content/uploads/2021/10/Munshigiri-2021-768x1152.jpg" group-title="Bangla Movies", Munshigiri (2021)
-http://10.10.10.10/FTP1/Bangla%20Movies/2021/Munshigiri.2021.Bangla-Chorki%20Drama.Web-DL.720p.%5BFreeDriveMovie.com%5D%20.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_630,h_945,c_scale,f_auto,q_auto/resources/0-0-1z531613/portrait/1920x7700d2f2bdc4fff4c7fae2a00ee88d95379.jpg" group-title="Bangla Movies", Baazi (2021)
-http://10.10.10.10/FTP1/Indian%20Bangla%20Movies/Baazi%202021%20Bengali%201080P%20ZEE5%20WEBRiP%20x265%20HEVC%20AAC%202.0%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ4ZmU5YzMtNmNlZS00OTM2LWJiNTMtNTY0ZTQ4MzcwMmQwXkEyXkFqcGdeQXVyOTU3OTM5MTY@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies", Rosogolla (2018)
-http://10.10.10.10/FTP1/Indian%20Bangla%20Movies/Rosogolla%20%5B2018%5D/Rosogolla%20%5B2018%5D%20Beng.%20Movie%201080p%20Untouched%20Webdl%20x%20264%20AVC%20AAC%20%5BCinemaghar%5D%20-%20xclusive.mkv
-
-..........................................................MOVIES-Hindi......................................................................
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFiZmQ5N2UtMDI3ZS00Yjc0LWJhNTgtYWQzODNmMWVhMzU1XkEyXkFqcGdeQXVyODM5Mzk0MTU@._V1_.jpg" group-title="Hindi Movie's", Aakhet (2021)
-http://10.10.10.10/FTP1/Hindi%20Movies/2021/Aakhet%20%282021%29%201080p%20WEB%20DL%20-%20X264%20-%20AAC%20-%20DUSIcTv.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://www.themoviedb.org/t/p/w500/5KHjF8H2bqvQdmvkmeAlFjKXkmB.jpg" group-title="Hindi Movie's", Ajeeb Daastaans (2021)
-http://10.10.10.10/FTP1/Hindi%20Movies/2021/Ajeeb%20Daastaans%202021%20Hindi%201080P%20NF%20WEBDL%20x264%20DD%205.1%20AVC%20MSUBS%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://static.toiimg.com/thumb/msid-81544623,width-219,height-317,imgsize-32493/81544623.jpg" group-title="Hindi Movie's", Anu And Arjun (2021)
-http://10.10.10.10/FTP1/Hindi%20Movies/2021/Anu.and.Arjun.2021.1080p.Hindi.HQ.PreDvDRip.x264-Top10torrent.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="hhttps://cdn.bollywoodmdb.com/movies/largethumb/2019/fauji-calling/fauji-calling-poster-3.jpg" group-title="Hindi Movie's", Fauji Calling (2021)
-http://10.10.10.10/FTP1/Hindi%20Movies/2021/Fauji%20calling%20%282021%29%20Hindi%20720p%20PreDVDRip%20x264%20AAC%20-%20CineVood.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Kaagaz_film_poster.jpg" group-title="Hindi Movie's", Kaagaz (2021)
-http://10.10.10.10/FTP1/Hindi%20Movies/2021/Kaagaz%20%282021%29%201080p%20WEBDL.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFmOTQxNTMtMTU0Mi00OTUwLWE4OTYtNDRlZjQxNTM0Nzk1XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg" group-title="Hindi Movie's", Koi Jaane Na (2021)
-http://10.10.10.10/FTP1/Hindi%20Movies/2021/Koi%20Jaane%20Na%20%282021%29%20Hindi%201080P%20Predvd%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn.bollywoodmdb.com/movies/largethumb/2014/mumbai-saga/mumbai-saga-poster-7.jpg" group-title="Hindi Movie's", Mumbai Saga (2021)
-http://10.10.10.10/FTP1/Hindi%20Movies/2021/Mumbai.Saga.2021.1080p.AMZN.WEB-DL.DDP5.1.x265-_ShiNobi_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Radhe_film_poster.jpg" group-title="Hindi Movie's", Radhe (2021)
-http://10.10.10.10/FTP1/Hindi%20Movies/2021/Radhe.2021.1080p.ZEE5.WEB-DL.AAC2.0.H.264-CiNEMAX.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn.bollywoodmdb.com/movies/largethumb/2018/saina/saina-poster-9.jpg" group-title="Hindi Movie's", Saina (2021)
-http://10.10.10.10/FTP1/Hindi%20Movies/2021/Saina%20%282021%29%20Hindi%201080p%20HQ%20PreDVD%20Rip%20x264%20AAC%20-%20CineVood%20%281%29.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://static-koimoi.akamaized.net/wp-content/new-galleries/2018/12/kgf-chapter-1-movie-review-yashs-journey-from-style-to-stale-1.jpg" group-title="Hindi Movie's", K.G.F Chapter-1 (2018)
-http://10.10.10.10/FTP1/Hindi%20Movies/2018/KGF%20Chapter1%282018%29/K.G.F%20%20kfg%20-%20Chapter%201%20%28Hindi%29%205.1ch%20%20%5B1080p%5D%20untouched%20webdl%201st%20on%20net%20team%20techbangla%20.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://images.news18.com/ibnlive/uploads/2021/11/sooryavanshi-new-poster-1.jpg" group-title="Hindi Movie's", Sooryavanshi (2021)
-http://10.10.10.10/FTP1/Hindi%20Movies/2021/Sooryavanshi%202021%201080p%2010bit%20NF%20WEBRip%20x265%20HEVC%20AAC%205.1%20ESubs%20~%20_%5BKIRA%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRiMTRmN2ItNDhiMy00MzlkLTk3OGEtMGQxZmFlNTZiMjIzXkEyXkFqcGdeQXVyMTE2NTYzNTQy._V1_.jpg" group-title="Hindi Movie's", Enemy (2021)
-http://10.10.10.10/FTP1/Hindi%20Movies/2021/www.1TamilMV.bar%20-%20Enemy%20%282021%29%20Tamil%20HQ%20HDRip%20-%201080p%20-%20HEVC%20-%20AAC%20-%201.5GB%20-%20HC-ESub.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Marakkar_Lion_of_the_Arabian_Sea.jpg" group-title="Hindi Movie's", Marakkar: Lion of the Arabian Sea (2021)
-http://10.10.10.10/FTP1/Hindi%20Movies/2021/Marakkar%20Arab%20Sagar%20Ka%20Sher%202021%20Malayalam%201080P%20Amzn%20WEBRiP%20x265%20DD%205.1%20HEVC%20ESUB%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://i.ytimg.com/vi/ZupifgxtXuA/hqdefault.jpg" group-title="Hindi Movie's", PUSHPA (2021)
-http://10.10.10.10/FTP1/Hindi%20Movies/2021/Pushpa-%20The%20Rise%20-%20Part%201%20%202021%20Hindi%201080P%20AMZN%20WEB-DL%20DDP%205.1%20H%20265%20HEVC%20ESUB-%5BHasan%5D.mkv
-..........................................................MOVIES-English......................................................................
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://imagetot.com/images/2021/05/03/c403182600ec95cd429963bb6b22ea15.jpg" group-title="Animation Movie"s", The Mitchells vs The Machines (2021)
-http://10.10.10.10/FTP1/English%20Movies/2021/The.Mitchells.vs.The.Machines.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.HDR.HEVC-CMRG/The.Mitchells.vs.The.Machines.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.HDR.HEVC-CMRG.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDAxMmQ0NTAtNDllNC00ZjE2LTlkNjUtMmExNmY0MmNkMDQ0XkEyXkFqcGdeQXVyNzYyOTM1ODI@._V1_.jpg" group-title="English Movie's", Those Who Wish Me Dead (2021)
-http://10.10.10.10/FTP1/English%20Movies/2021/Those.Who.Wish.Me.Dead.2021.1080p.HMAX.WEB-DL.x265.10bit.HDR.DD5.1-MRCS/Those.Who.Wish.Me.Dead.2021.1080p.HMAX.WEB-DL.x265.10bit.HDR.DD5.1-MRCS.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://lh3.googleusercontent.com/proxy/YjjdPkQIbHtqAdphH5-UbNyMRe5el_XVFQngvjuNR5gFoGNbXx_VUyJkFuvJvxrp2Zs54AwRia3Qgs4bRZRsF-0V1EREtjG5z3xJLv-sXcwz9t1to11XVEDc" group-title="English Movie's",A Quite Place Part-2  (2021)
-http://10.10.10.10/FTP1/English%20Movies/2021/A%20Quiet%20Place%20Part%202%202021%20HDRip%201080p.%20HEVC%20x265%20AAC2.0%20Invincible_Guy%28WWE%29.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://pics.filmaffinity.com/Army_of_the_Dead-932568587-large.jpg" group-title="English Movie's", Army of the Dead (2021)
-http://10.10.10.10/FTP1/English%20Movies/2021/Army.of.the.Dead.2021.1080p.NF.WEBRip.HEVC.x265.DDP5.1.MSubs%20~%20_%5BTasin%5D_..mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://moviehole.net/img/infinite.jpg" group-title="English Movie's", Infinite (2021)
-http://10.10.10.10/FTP1/English%20Movies/2021/Infinite.2021.1080p.WEBRip.DDP.5.1.HEVC.x265.Esub%20~%20_%5BTasin%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://www.joblo.com/assets/images/joblo/posters/2021/04/luca-disney-pixar-trailer-poster-2021.jpg" group-title="Animation Movie"s", Luca (2021)
-http://10.10.10.10/FTP1/English%20Movies/2021/Luca.2021.1080p.DSNP.WEBRip.HEVC.x265.AAC.6CH.ESubs%20~_%5BTasin%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://msmoviesbd.com/wp-content/uploads/2021/05/images-52.jpeg" group-title="Bangla Movie's", Moronottom (2021)
-http://10.10.10.10/FTP1/English%20Movies/2021/Moronottom%202021%20Bongo%20Originals%201080P%20WEBDL%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://www.joblo.com/assets/images/joblo/news/2021/03/mortal-kombat-2021-poster-group.jpg" group-title="English Movie's", Mortal Kombat (2021)
-http://10.10.10.10/FTP1/English%20Movies/2021/Mortal%20Kombat2021%201080P%20IMAX%20WEBRiP%20x265%20DD%205.1%20HEVC%20ESUB%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="Animation Movie"s", Raya And The Last Dragon (2021)
-http://10.10.10.10/FTP1/English%20Movies/2021/Raya%20And%20The%20Last%20Dragon%202021%201080P%20DSNP%20WEBRiP%20x265%20DD%205.1%20HEVC%20ESUB%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://www.fanbolt.com/storage/2021/04/courier-2000x3000-1.jpg" group-title="English Movie's", Courier (2021)
-http://10.10.10.10/FTP1/English%20Movies/2021/The%20Courier%202021%201080P%20WEBRiP%20x265%20DD%205.1%20HEVC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFiNzBlYmEtMTcxZS00ZTEyLWJmYmQtMjYzYjAxNGQwODAzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="English Movie's", venom let there be carnage (2021)
-http://10.10.10.10/FTP1/English%20Movies/2021/Venom.Let.There.Be.Carnage.2021.Bluray%2010bit%20Bluray%20x265%20HEVC%20AAC%202%200%20~JOY~%20.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI1YzgyNDktYTc4Ny00MzJkLWI3YjMtMzE5NjY3Y2ViM2FmXkEyXkFqcGdeQXVyNjE5MjEwMzA@._V1_.jpg" group-title="English Movie's", The Dry (2021)
-http://10.10.10.10/FTP1/English%20Movies/2021/The%20Dry%202021%201080P%20Blu%20Ray%20x265%20DD%205.1%20HEVC%20ESUB%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ2MGQ1ZGQtOTY4MS00ZDA5LWE5YmUtMGE0YTE2YTZiODZkXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg" group-title="English Movie's", the hitman's wife's bodyguard (2021)
-http://10.10.10.10/FTP1/English%20Movies/2021/The%20Hitmans%20Wifes%20Bodyguard%202021%201080p%20HDRip%20AAC2.0%20H265%20~_%5BTasin%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGExZTUzYWQtYWJjZi00OTI4LTk4OGYtNTA2YzcwMmNiZTMxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="English Movie's", The Last Duel (2021)
-http://10.10.10.10/FTP1/English%20Movies/2021/The%20Last%20Duel%20%282021%29%201080p%20BluRay%20x265%20~%20_%5BKIRA%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://i.pinimg.com/736x/5c/a6/ea/5ca6eac7519ad6abf526f60860d9a197.jpg" group-title="English Movie's", Fireheart (2022)
-http://10.10.10.10/FTP1/English%20Movies/2022/Fireheart.2022.1080p.HULU.WEB-DL.AAC2.0.H.264-EVO/Fireheart.2022.1080p.HULU.WEB-DL.AAC2.0.H.264-EVO.mkv
-
-..........................................................Series-Bangla......................................................................
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://bingeddata.s3.amazonaws.com/uploads/2021/06/Mohanagar.jpg" group-title="Bangla Series", Mohanagar S01 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Mohanagar%20%282021%29%20Bangla%20S01%20WEB-DL%20%E2%80%93%20720P%20%E2%80%93%20x264.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://i.ibb.co/r6cNCCp/Shikol-2021-S01-Bengali-Complete-Web-Series-720p-HDRip-800-MB-Dwonload.jpg" group-title="Bangla Series", Shikol S01 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Shikol%202021%20Bengali%20S01%20Binge%20Originals%20720P%20HDRiP%20x265%20AAC%202.0%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://imagetot.com/images/2021/05/14/db1ea881ef3c9cab850eb2ec4294ae5c.jpg" group-title="Bangla Series", Borof Koler Golpo S01 E01 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Borof%20Koler%20Golpo%202021%20Bengali%20S01%20720P%20WEBRIP%20H265%20HEVC%20%20AAC%202.0%20-%20%5BHasan%5D/Borof%20Koler%20Golpo%202021%20Bengali%20S01E01%20720P%20WEBRIP%20H265%20HEVC%20%20AAC%202.0%20-%20%5BHasan%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://imagetot.com/images/2021/05/14/db1ea881ef3c9cab850eb2ec4294ae5c.jpg" group-title="Bangla Series", Borof Koler Golpo S01 E02 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Borof%20Koler%20Golpo%202021%20Bengali%20S01%20720P%20WEBRIP%20H265%20HEVC%20%20AAC%202.0%20-%20%5BHasan%5D/Borof%20Koler%20Golpo%202021%20Bengali%20S01E02%20720P%20WEBRIP%20H265%20HEVC%20%20AAC%202.0%20-%20%5BHasan%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://imagetot.com/images/2021/05/14/db1ea881ef3c9cab850eb2ec4294ae5c.jpg" group-title="Bangla Series", Borof Koler Golpo S01 E03 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Borof%20Koler%20Golpo%202021%20Bengali%20S01%20720P%20WEBRIP%20H265%20HEVC%20%20AAC%202.0%20-%20%5BHasan%5D/Borof%20Koler%20Golpo%202021%20Bengali%20S01E03%20720P%20WEBRIP%20H265%20HEVC%20%20AAC%202.0%20-%20%5BHasan%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://imagetot.com/images/2021/05/14/db1ea881ef3c9cab850eb2ec4294ae5c.jpg" group-title="Bangla Series", Borof Koler Golpo S01 E04 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Borof%20Koler%20Golpo%202021%20Bengali%20S01%20720P%20WEBRIP%20H265%20HEVC%20%20AAC%202.0%20-%20%5BHasan%5D/Borof%20Koler%20Golpo%202021%20Bengali%20S01E04%20720P%20WEBRIP%20H265%20HEVC%20%20AAC%202.0%20-%20%5BHasan%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://imagetot.com/images/2021/05/14/db1ea881ef3c9cab850eb2ec4294ae5c.jpg" group-title="Bangla Series", Borof Koler Golpo S01 E05 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Borof%20Koler%20Golpo%202021%20Bengali%20S01%20720P%20WEBRIP%20H265%20HEVC%20%20AAC%202.0%20-%20%5BHasan%5D/Borof%20Koler%20Golpo%202021%20Bengali%20S01E05%20720P%20WEBRIP%20H265%20HEVC%20%20AAC%202.0%20-%20%5BHasan%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://imagetot.com/images/2021/05/14/db1ea881ef3c9cab850eb2ec4294ae5c.jpg" group-title="Bangla Series", Borof Koler Golpo S01 E06 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Borof%20Koler%20Golpo%202021%20Bengali%20S01%20720P%20WEBRIP%20H265%20HEVC%20%20AAC%202.0%20-%20%5BHasan%5D/Borof%20Koler%20Golpo%202021%20Bengali%20S01E06%20720P%20WEBRIP%20H265%20HEVC%20%20AAC%202.0%20-%20%5BHasan%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzZjk3ZTAtNDM5MS00ZTEzLWFhNmQtOTA3NzJmZjQxMDg1XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Taqdeer S01 E01 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Taqdeer%20S01%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Taqdeer%20S01E01%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzZjk3ZTAtNDM5MS00ZTEzLWFhNmQtOTA3NzJmZjQxMDg1XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Taqdeer S01 E02 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Taqdeer%20S01%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Taqdeer%20S01E02%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzZjk3ZTAtNDM5MS00ZTEzLWFhNmQtOTA3NzJmZjQxMDg1XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Taqdeer S01 E03 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Taqdeer%20S01%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Taqdeer%20S01E03%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzZjk3ZTAtNDM5MS00ZTEzLWFhNmQtOTA3NzJmZjQxMDg1XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Taqdeer S01 E04 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Taqdeer%20S01%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Taqdeer%20S01E04%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzZjk3ZTAtNDM5MS00ZTEzLWFhNmQtOTA3NzJmZjQxMDg1XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Taqdeer S01 E05 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Taqdeer%20S01%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Taqdeer%20S01E05%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzZjk3ZTAtNDM5MS00ZTEzLWFhNmQtOTA3NzJmZjQxMDg1XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Taqdeer S01 E06 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Taqdeer%20S01%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Taqdeer%20S01E06%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzZjk3ZTAtNDM5MS00ZTEzLWFhNmQtOTA3NzJmZjQxMDg1XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Taqdeer S01 E07 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Taqdeer%20S01%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Taqdeer%20S01E07%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzZjk3ZTAtNDM5MS00ZTEzLWFhNmQtOTA3NzJmZjQxMDg1XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Taqdeer S01 E08 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Taqdeer%20S01%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Taqdeer%20S01E08%202020%20Hoichoi%20Originals%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEzMTQwZjctMzQ4Mi00NjQ0LTlmYWItNGE4NjE2NjJmZDEyXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Eakkator S01 E01 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ekkator/Ekattor%202020%20Hoichoi%20Originals%20S01E01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEzMTQwZjctMzQ4Mi00NjQ0LTlmYWItNGE4NjE2NjJmZDEyXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Eakkator S01 E02 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ekkator/Ekattor%202020%20Hoichoi%20Originals%20S01E02%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEzMTQwZjctMzQ4Mi00NjQ0LTlmYWItNGE4NjE2NjJmZDEyXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Eakkator S01 E03 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ekkator/Ekattor%202020%20Hoichoi%20Originals%20S01E03%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEzMTQwZjctMzQ4Mi00NjQ0LTlmYWItNGE4NjE2NjJmZDEyXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Eakkator S01 E04 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ekkator/Ekattor%202020%20Hoichoi%20Originals%20S01E04%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEzMTQwZjctMzQ4Mi00NjQ0LTlmYWItNGE4NjE2NjJmZDEyXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Eakkator S01 E05 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ekkator/Ekattor%202020%20Hoichoi%20Originals%20S01E05%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEzMTQwZjctMzQ4Mi00NjQ0LTlmYWItNGE4NjE2NjJmZDEyXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Eakkator S01 E06 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ekkator/Ekattor%202020%20Hoichoi%20Originals%20S01E06%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEzMTQwZjctMzQ4Mi00NjQ0LTlmYWItNGE4NjE2NjJmZDEyXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Eakkator S01 E07 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ekkator/Ekattor%202020%20Hoichoi%20Originals%20S01E07%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEzMTQwZjctMzQ4Mi00NjQ0LTlmYWItNGE4NjE2NjJmZDEyXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series", Eakkator S01 E08 (2020)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ekkator/Ekattor%202020%20Hoichoi%20Originals%20S01E08%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhjZmEzNDYtNTM4ZC00NGJlLWI1ZTktNjhmOGRmM2I0NGE3XkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_.jpg" group-title="Bangla Series", Ladies and Gentlemen S01 E01 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ladies%20and%20Gentlemen%202021%20S01%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264/Ladies%20and%20Gentlemen%202021%20S01E01%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhjZmEzNDYtNTM4ZC00NGJlLWI1ZTktNjhmOGRmM2I0NGE3XkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_.jpg" group-title="Bangla Series", Ladies and Gentlemen S01 E02 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ladies%20and%20Gentlemen%202021%20S01%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264/Ladies%20and%20Gentlemen%202021%20S01E02%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhjZmEzNDYtNTM4ZC00NGJlLWI1ZTktNjhmOGRmM2I0NGE3XkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_.jpg" group-title="Bangla Series", Ladies and Gentlemen S01 E03 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ladies%20and%20Gentlemen%202021%20S01%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264/Ladies%20and%20Gentlemen%202021%20S01E03%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhjZmEzNDYtNTM4ZC00NGJlLWI1ZTktNjhmOGRmM2I0NGE3XkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_.jpg" group-title="Bangla Series", Ladies and Gentlemen S01 E04 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ladies%20and%20Gentlemen%202021%20S01%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264/Ladies%20and%20Gentlemen%202021%20S01E04%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhjZmEzNDYtNTM4ZC00NGJlLWI1ZTktNjhmOGRmM2I0NGE3XkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_.jpg" group-title="Bangla Series", Ladies and Gentlemen S01 E05 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ladies%20and%20Gentlemen%202021%20S01%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264/Ladies%20and%20Gentlemen%202021%20S01E05%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhjZmEzNDYtNTM4ZC00NGJlLWI1ZTktNjhmOGRmM2I0NGE3XkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_.jpg" group-title="Bangla Series", Ladies and Gentlemen S01 E06 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ladies%20and%20Gentlemen%202021%20S01%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264/Ladies%20and%20Gentlemen%202021%20S01E06%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhjZmEzNDYtNTM4ZC00NGJlLWI1ZTktNjhmOGRmM2I0NGE3XkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_.jpg" group-title="Bangla Series", Ladies and Gentlemen S01 E07 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ladies%20and%20Gentlemen%202021%20S01%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264/Ladies%20and%20Gentlemen%202021%20S01E07%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhjZmEzNDYtNTM4ZC00NGJlLWI1ZTktNjhmOGRmM2I0NGE3XkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_.jpg" group-title="Bangla Series", Ladies and Gentlemen S01 E08 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ladies%20and%20Gentlemen%202021%20S01%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264/Ladies%20and%20Gentlemen%202021%20S01E08%201080p%5BFreeDriveMovie.com%5DZee5%20WEB-DL%20AAC2.0%20H264.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://fs1.extraimage.org/2021/07/13/Morichika-S01-2021-Bengali-Complete-Chorki-Original-Web-Series-1080p-HDRip-3.5GB-Downloadc26f0be300d76e98.jpg" group-title="Bangla Series", Morichika S01 E01  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Morichika%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Morichika%20S01E01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://fs1.extraimage.org/2021/07/13/Morichika-S01-2021-Bengali-Complete-Chorki-Original-Web-Series-1080p-HDRip-3.5GB-Downloadc26f0be300d76e98.jpg" group-title="Bangla Series", Morichika S01 E02  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Morichika%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Morichika%20S01E02%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://fs1.extraimage.org/2021/07/13/Morichika-S01-2021-Bengali-Complete-Chorki-Original-Web-Series-1080p-HDRip-3.5GB-Downloadc26f0be300d76e98.jpg" group-title="Bangla Series", Morichika S01 E03  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Morichika%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Morichika%20S01E03%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://fs1.extraimage.org/2021/07/13/Morichika-S01-2021-Bengali-Complete-Chorki-Original-Web-Series-1080p-HDRip-3.5GB-Downloadc26f0be300d76e98.jpg" group-title="Bangla Series", Morichika S01 E04  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Morichika%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Morichika%20S01E04%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://fs1.extraimage.org/2021/07/13/Morichika-S01-2021-Bengali-Complete-Chorki-Original-Web-Series-1080p-HDRip-3.5GB-Downloadc26f0be300d76e98.jpg" group-title="Bangla Series", Morichika S01 E05  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Morichika%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Morichika%20S01E05%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://fs1.extraimage.org/2021/07/13/Morichika-S01-2021-Bengali-Complete-Chorki-Original-Web-Series-1080p-HDRip-3.5GB-Downloadc26f0be300d76e98.jpg" group-title="Bangla Series", Morichika S01 E06  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Morichika%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Morichika%20S01E06%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://fs1.extraimage.org/2021/07/13/Morichika-S01-2021-Bengali-Complete-Chorki-Original-Web-Series-1080p-HDRip-3.5GB-Downloadc26f0be300d76e98.jpg" group-title="Bangla Series", Morichika S01 E07  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Morichika%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Morichika%20S01E07%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://fs1.extraimage.org/2021/07/13/Morichika-S01-2021-Bengali-Complete-Chorki-Original-Web-Series-1080p-HDRip-3.5GB-Downloadc26f0be300d76e98.jpg" group-title="Bangla Series", Morichika S01 E08  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Morichika%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Morichika%20S01E08%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://1.bp.blogspot.com/-zOGPPK-eivs/YO3cIwaMerI/AAAAAAAABcY/9HXokwjDiEA9J-tlk_zm45Ivl5GMeZ0hQCLcBGAsYHQ/w216-h320/lal-katan-nil-dakat-vicky-zahed-2021-short-flim.webp" group-title="Bangla Series", Lal Katan Nil Dakat S01  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Lal%20Katan%20Nil%20Dakat%201080P%20WEBDL%20x264%20AVC%20AAC%20%5Bshadow%5D.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmEyZmNmM2QtYzNkZC00YTg3LTk2MGQtZDNmZmU2OGZiYjdkXkEyXkFqcGdeQXVyOTM3MDMxNDk@._V1_.jpg" group-title="Bangla Series", The Drak Side Of Dhaka S01  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/The%20Dark%20Side%20of%20DHAKA%20%5Bfreedrivemovie.com%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://bdlove23.com/wp-content/uploads/2021/12/Boli-%E0%A6%AC%E0%A6%B2%E0%A6%BF-S01-Complete-Bengali-Series-2021-Watch-Download.jpg" group-title="Bangla Series", BOLI S01 E01  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Boli%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Boli%20S01E01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://bdlove23.com/wp-content/uploads/2021/12/Boli-%E0%A6%AC%E0%A6%B2%E0%A6%BF-S01-Complete-Bengali-Series-2021-Watch-Download.jpg" group-title="Bangla Series", BOLI S01 E02  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Boli%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Boli%20S01E02%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://bdlove23.com/wp-content/uploads/2021/12/Boli-%E0%A6%AC%E0%A6%B2%E0%A6%BF-S01-Complete-Bengali-Series-2021-Watch-Download.jpg" group-title="Bangla Series", BOLI S01 E03  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Boli%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Boli%20S01E03%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://bdlove23.com/wp-content/uploads/2021/12/Boli-%E0%A6%AC%E0%A6%B2%E0%A6%BF-S01-Complete-Bengali-Series-2021-Watch-Download.jpg" group-title="Bangla Series", BOLI S01 E04  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Boli%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Boli%20S01E04%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://bdlove23.com/wp-content/uploads/2021/12/Boli-%E0%A6%AC%E0%A6%B2%E0%A6%BF-S01-Complete-Bengali-Series-2021-Watch-Download.jpg" group-title="Bangla Series", BOLI S01 E05  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Boli%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Boli%20S01E05%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://bdlove23.com/wp-content/uploads/2021/12/Boli-%E0%A6%AC%E0%A6%B2%E0%A6%BF-S01-Complete-Bengali-Series-2021-Watch-Download.jpg" group-title="Bangla Series", BOLI S01 E06  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Boli%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Boli%20S01E06%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://bdlove23.com/wp-content/uploads/2021/12/Boli-%E0%A6%AC%E0%A6%B2%E0%A6%BF-S01-Complete-Bengali-Series-2021-Watch-Download.jpg" group-title="Bangla Series", BOLI S01 E07  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Boli%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Boli%20S01E07%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://media-eng.dhakatribune.com/uploads/2021/07/bou-1626261039696.jpeg" group-title="Bangla Series", Bou Diaries S01 E01  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Bou%20Diaries%202021%20Bengali%20S01%201080p%20WEB%20RIP%20x265%20HEVC%20%20AAC%202.0%20-%5BHasan%5D/Bou%20Diaries%202021%20Bengali%20S01E01%201080p%20WEB%20RIP%20x265%20HEVC%20%20AAC%202.0%20-%5BHasan%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://media-eng.dhakatribune.com/uploads/2021/07/bou-1626261039696.jpeg" group-title="Bangla Series", Bou Diaries S01 E02  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Bou%20Diaries%202021%20Bengali%20S01%201080p%20WEB%20RIP%20x265%20HEVC%20%20AAC%202.0%20-%5BHasan%5D/Bou%20Diaries%202021%20Bengali%20S01E02%201080p%20WEB%20RIP%20x265%20HEVC%20%20AAC%202.0%20-%5BHasan%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://media-eng.dhakatribune.com/uploads/2021/07/bou-1626261039696.jpeg" group-title="Bangla Series", Bou Diaries S01 E03  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Bou%20Diaries%202021%20Bengali%20S01%201080p%20WEB%20RIP%20x265%20HEVC%20%20AAC%202.0%20-%5BHasan%5D/Bou%20Diaries%202021%20Bengali%20S01E03%201080p%20WEB%20RIP%20x265%20HEVC%20%20AAC%202.0%20-%5BHasan%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://i.ytimg.com/vi/grmY-2lSJ1Y/hqdefault.jpg" group-title="Bangla Series", Feluda Golokdham Rahasya S01 E01  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Feluda%20-%20Golokdham%20Rahasya%20S01%201080p%20WEBRip%20HEVC%20x265%20AAC%202CH%20HC%20ESub%20~%20_%5BTasin%5D_/Feluda%20-%20Golokdham%20Rahasya%20E01%201080p%20WEBRip%20HEVC%20x265%20AAC%202CH%20HC%20ESub%20~%20_%5BTasin%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://i.ytimg.com/vi/grmY-2lSJ1Y/hqdefault.jpg" group-title="Bangla Series", Feluda Golokdham Rahasya S01 E02  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Feluda%20-%20Golokdham%20Rahasya%20S01%201080p%20WEBRip%20HEVC%20x265%20AAC%202CH%20HC%20ESub%20~%20_%5BTasin%5D_/Feluda%20-%20Golokdham%20Rahasya%20E02%201080p%20WEBRip%20HEVC%20x265%20AAC%202CH%20HC%20ESub%20~%20_%5BTasin%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://i.ytimg.com/vi/grmY-2lSJ1Y/hqdefault.jpg" group-title="Bangla Series", Feluda Golokdham Rahasya S01 E03  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Feluda%20-%20Golokdham%20Rahasya%20S01%201080p%20WEBRip%20HEVC%20x265%20AAC%202CH%20HC%20ESub%20~%20_%5BTasin%5D_/Feluda%20-%20Golokdham%20Rahasya%20E03%201080p%20WEBRip%20HEVC%20x265%20AAC%202CH%20HC%20ESub%20~%20_%5BTasin%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://i.ytimg.com/vi/grmY-2lSJ1Y/hqdefault.jpg" group-title="Bangla Series", Feluda Golokdham Rahasya S01 E04  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Feluda%20-%20Golokdham%20Rahasya%20S01%201080p%20WEBRip%20HEVC%20x265%20AAC%202CH%20HC%20ESub%20~%20_%5BTasin%5D_/Feluda%20-%20Golokdham%20Rahasya%20E04%201080p%20WEBRip%20HEVC%20x265%20AAC%202CH%20HC%20ESub%20~%20_%5BTasin%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn.bioscopelive.com/upload/content/landscape/hd/syO4l7BhS41.jpg" group-title="Bangla Series",Golpo Golpo Khela S01 E01  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Golpo%20Golpo%20Khela%20S01%201080p%20WEB-DL%20AAC%20x264%20%5BMKabirZ%5D/Golpo%20Golpo%20Khela%20S01E01%201080p%20AAC%20x264%20%5BMKabirZ%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn.bioscopelive.com/upload/content/landscape/hd/syO4l7BhS41.jpg" group-title="Bangla Series",Golpo Golpo Khela S01 E02  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Golpo%20Golpo%20Khela%20S01%201080p%20WEB-DL%20AAC%20x264%20%5BMKabirZ%5D/Golpo%20Golpo%20Khela%20S01E02%201080p%20AAC%20x264%20%5BMKabirZ%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn.bioscopelive.com/upload/content/landscape/hd/syO4l7BhS41.jpg" group-title="Bangla Series",Golpo Golpo Khela S01 E03  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Golpo%20Golpo%20Khela%20S01%201080p%20WEB-DL%20AAC%20x264%20%5BMKabirZ%5D/Golpo%20Golpo%20Khela%20S01E03%201080p%20AAC%20x264%20%5BMKabirZ%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn.bioscopelive.com/upload/content/landscape/hd/syO4l7BhS41.jpg" group-title="Bangla Series",Golpo Golpo Khela S01 E04  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Golpo%20Golpo%20Khela%20S01%201080p%20WEB-DL%20AAC%20x264%20%5BMKabirZ%5D/Golpo%20Golpo%20Khela%20S01E04%201080p%20AAC%20x264%20%5BMKabirZ%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn.bioscopelive.com/upload/content/landscape/hd/syO4l7BhS41.jpg" group-title="Bangla Series",Golpo Golpo Khela S01 E05  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Golpo%20Golpo%20Khela%20S01%201080p%20WEB-DL%20AAC%20x264%20%5BMKabirZ%5D/Golpo%20Golpo%20Khela%20S01E05%201080p%20AAC%20x264%20%5BMKabirZ%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn.bioscopelive.com/upload/content/landscape/hd/syO4l7BhS41.jpg" group-title="Bangla Series",Golpo Golpo Khela S01 E06  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Golpo%20Golpo%20Khela%20S01%201080p%20WEB-DL%20AAC%20x264%20%5BMKabirZ%5D/Golpo%20Golpo%20Khela%20S01E06%201080p%20AAC%20x264%20%5BMKabirZ%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn.bioscopelive.com/upload/content/landscape/hd/syO4l7BhS41.jpg" group-title="Bangla Series",Golpo Golpo Khela S01 E07  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Golpo%20Golpo%20Khela%20S01%201080p%20WEB-DL%20AAC%20x264%20%5BMKabirZ%5D/Golpo%20Golpo%20Khela%20S01E07%201080p%20AAC%20x264%20%5BMKabirZ%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0OWE3YzUtY2I0Yy00MmZlLWJlYTctNTdkZWYzM2Y5MjU2XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",INDU S01 E01  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Indu%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Indu%20S01E01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0OWE3YzUtY2I0Yy00MmZlLWJlYTctNTdkZWYzM2Y5MjU2XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",INDU S01 E02  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Indu%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Indu%20S01E02%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0OWE3YzUtY2I0Yy00MmZlLWJlYTctNTdkZWYzM2Y5MjU2XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",INDU S01 E03  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Indu%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Indu%20S01E03%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0OWE3YzUtY2I0Yy00MmZlLWJlYTctNTdkZWYzM2Y5MjU2XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",INDU S01 E04  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Indu%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Indu%20S01E04%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0OWE3YzUtY2I0Yy00MmZlLWJlYTctNTdkZWYzM2Y5MjU2XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",INDU S01 E05  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Indu%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Indu%20S01E05%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0OWE3YzUtY2I0Yy00MmZlLWJlYTctNTdkZWYzM2Y5MjU2XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",INDU S01 E06  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Indu%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Indu%20S01E06%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0OWE3YzUtY2I0Yy00MmZlLWJlYTctNTdkZWYzM2Y5MjU2XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",INDU S01 E07  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Indu%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Indu%20S01E07%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0OWE3YzUtY2I0Yy00MmZlLWJlYTctNTdkZWYzM2Y5MjU2XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",INDU S01 E08  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Indu%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Indu%20S01E08%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk5MDdkNjItOGU3ZC00OTc4LTk3Y2MtZjVmNDdmOTg0YTgyXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",Mandaar S01 E01  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Mandaar%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Mandaar%20S01E01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk5MDdkNjItOGU3ZC00OTc4LTk3Y2MtZjVmNDdmOTg0YTgyXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",Mandaar S01 E02  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Mandaar%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Mandaar%20S01E02%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk5MDdkNjItOGU3ZC00OTc4LTk3Y2MtZjVmNDdmOTg0YTgyXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",Mandaar S01 E03  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Mandaar%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Mandaar%20S01E03%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk5MDdkNjItOGU3ZC00OTc4LTk3Y2MtZjVmNDdmOTg0YTgyXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",Mandaar S01 E04  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Mandaar%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Mandaar%20S01E04%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk5MDdkNjItOGU3ZC00OTc4LTk3Y2MtZjVmNDdmOTg0YTgyXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",Mandaar S01 E05  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Mandaar%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Mandaar%20S01E05%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQzYmFkYTAtODBmMS00YjFjLWJmNGItOGM3YzE5ZTY2MTNkXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",Money Honey S01 E01  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Money%20Honey%20DC%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Money%20Honey%20DC%20S01E01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQzYmFkYTAtODBmMS00YjFjLWJmNGItOGM3YzE5ZTY2MTNkXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",Money Honey S01 E02  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Money%20Honey%20DC%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Money%20Honey%20DC%20S01E02%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQzYmFkYTAtODBmMS00YjFjLWJmNGItOGM3YzE5ZTY2MTNkXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",Money Honey S01 E03  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Money%20Honey%20DC%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Money%20Honey%20DC%20S01E03%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQzYmFkYTAtODBmMS00YjFjLWJmNGItOGM3YzE5ZTY2MTNkXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",Money Honey S01 E04  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Money%20Honey%20DC%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Money%20Honey%20DC%20S01E04%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQzYmFkYTAtODBmMS00YjFjLWJmNGItOGM3YzE5ZTY2MTNkXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",Money Honey S01 E05  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Money%20Honey%20DC%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Money%20Honey%20DC%20S01E05%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQzYmFkYTAtODBmMS00YjFjLWJmNGItOGM3YzE5ZTY2MTNkXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",Money Honey S01 E06  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Money%20Honey%20DC%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Money%20Honey%20DC%20S01E06%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQzYmFkYTAtODBmMS00YjFjLWJmNGItOGM3YzE5ZTY2MTNkXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",Money Honey S01 E07  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Money%20Honey%20DC%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Money%20Honey%20DC%20S01E07%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQzYmFkYTAtODBmMS00YjFjLWJmNGItOGM3YzE5ZTY2MTNkXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg" group-title="Bangla Series",Money Honey S01 E08  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Money%20Honey%20DC%20S01%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D/Money%20Honey%20DC%20S01E08%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Rabindranath_Ekhane_Kokhono_Khete_Asenni-poster.jpg" group-title="Bangla Series",Rabindranath Ekhane Kokhono Khete Asenni S01 E01  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01E01%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Rabindranath_Ekhane_Kokhono_Khete_Asenni-poster.jpg" group-title="Bangla Series",Rabindranath Ekhane Kokhono Khete Asenni S01 E02  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01E02%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Rabindranath_Ekhane_Kokhono_Khete_Asenni-poster.jpg" group-title="Bangla Series",Rabindranath Ekhane Kokhono Khete Asenni S01 E03  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01E03%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Rabindranath_Ekhane_Kokhono_Khete_Asenni-poster.jpg" group-title="Bangla Series",Rabindranath Ekhane Kokhono Khete Asenni S01 E04  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01E04%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Rabindranath_Ekhane_Kokhono_Khete_Asenni-poster.jpg" group-title="Bangla Series",Rabindranath Ekhane Kokhono Khete Asenni S01 E05  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01E05%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Rabindranath_Ekhane_Kokhono_Khete_Asenni-poster.jpg" group-title="Bangla Series",Rabindranath Ekhane Kokhono Khete Asenni S01 E06  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01E06%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Rabindranath_Ekhane_Kokhono_Khete_Asenni-poster.jpg" group-title="Bangla Series",Rabindranath Ekhane Kokhono Khete Asenni S01 E07  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01E07%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Rabindranath_Ekhane_Kokhono_Khete_Asenni-poster.jpg" group-title="Bangla Series",Rabindranath Ekhane Kokhono Khete Asenni S01 E08  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01E08%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Rabindranath_Ekhane_Kokhono_Khete_Asenni-poster.jpg" group-title="Bangla Series",Rabindranath Ekhane Kokhono Khete Asenni S01 E09  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_/Robindronath%20Ekhane%20Kawkhono%20Khete%20Aashenni%20S01E09%20%281080p%20Hoichoi%20WEBRip%20HEVC%20x265%2010bit%20AAC%202.0%29%20~%20_%5BKira%5D_.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn1.addatimes.com/video_images/8yvy9svideo_5afd48f93dcca.jpg" group-title="Bangla Series",Virgin Mohito S01 E01  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Virgin%20Mohito%202018%20Bengali%20S01%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D/Virgin%20Mohito%202018%20Bengali%20S01E01%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn1.addatimes.com/video_images/8yvy9svideo_5afd48f93dcca.jpg" group-title="Bangla Series",Virgin Mohito S01 E02  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Virgin%20Mohito%202018%20Bengali%20S01%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D/Virgin%20Mohito%202018%20Bengali%20S01E02%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn1.addatimes.com/video_images/8yvy9svideo_5afd48f93dcca.jpg" group-title="Bangla Series",Virgin Mohito S01 E03  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Virgin%20Mohito%202018%20Bengali%20S01%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D/Virgin%20Mohito%202018%20Bengali%20S01E03%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn1.addatimes.com/video_images/8yvy9svideo_5afd48f93dcca.jpg" group-title="Bangla Series",Virgin Mohito S01 E04  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Virgin%20Mohito%202018%20Bengali%20S01%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D/Virgin%20Mohito%202018%20Bengali%20S01E04%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn1.addatimes.com/video_images/8yvy9svideo_5afd48f93dcca.jpg" group-title="Bangla Series",Virgin Mohito S01 E05  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Virgin%20Mohito%202018%20Bengali%20S01%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D/Virgin%20Mohito%202018%20Bengali%20S01E05%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn1.addatimes.com/video_images/8yvy9svideo_5afd48f93dcca.jpg" group-title="Bangla Series",Virgin Mohito S01 E06  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Virgin%20Mohito%202018%20Bengali%20S01%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D/Virgin%20Mohito%202018%20Bengali%20S01E06%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn1.addatimes.com/video_images/8yvy9svideo_5afd48f93dcca.jpg" group-title="Bangla Series",Virgin Mohito S01 E07  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Virgin%20Mohito%202018%20Bengali%20S01%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D/Virgin%20Mohito%202018%20Bengali%20S01E07%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://cdn1.addatimes.com/video_images/8yvy9svideo_5afd48f93dcca.jpg" group-title="Bangla Series",Virgin Mohito S01 E08  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Virgin%20Mohito%202018%20Bengali%20S01%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D/Virgin%20Mohito%202018%20Bengali%20S01E08%20Addatimes%20Originals%201080p%20WEBRip%20x265%20HEVC%20AAC%202.0%20~%20%5BSham%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://hdmusic99.me/wp-content/uploads/2019/04/18-Garden-Game-2019-Bengali-Full-Hot-Movie-720p-HDRip-700MB-x264.jpg" group-title="Bangla Series",Garden Game S01  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Garden%20Game%202020%20Bengali%20Bioscope%20Originals%20S01%201080p%20WEBRip%20HEVC%20x265%20AAC.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://imagetot.com/images/2021/04/07/ddf9daadd6b8c790a3a7dc6d9f6005e4.jpg" group-title="Bangla Series",Ghor S01 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Ghor%202021%20Bengali%20S01%20Binge%20Originals%201080p%20WEB-DL%20x264%20AAC.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://1.bp.blogspot.com/-5ISzcStaNII/YE3aCqX3N0I/AAAAAAAABcg/Lq0YiBBvJDEyc50fWq9cwQkRPDhomtsCQCLcBGAsYHQ/s985/Kostoneer.png" group-title="Bangla Series",Kostoneer S01  (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Kostoneer%202021%20%20Bangla%201080P%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://i.imgur.com/FNUsCF0.jpg" group-title="Bangla Series",Okkhor S01 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Okkhor%20%282018%29%20Bengali%201080p%20Hoichoi%20Original%20WEBDL%20x265%20HEVC%20AAC%20~%20%5Brriaz1992%5D.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://i.imgur.com/r1eh2vn.jpg" group-title="Bangla Series",Tekka S01 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Tekka%202021%20Bengali%20S01E01%201080P%20WEBRIP%20H265%20HEVC%20AAC%202.0%20-%20%5BHasan%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://static.digit.in/OTT/v2/images/tr:w-1200/thanda-301515.jpg" group-title="Bangla Series",Thanda S01 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Thanda%202021%20Bangla%201080P%20ZEE5%20WEBRiP%20x265%20HEVC%20AAC%202.0%20%5Bshadow%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://1.bp.blogspot.com/-dk5sl1rEG7Q/YVdIhEm1rLI/AAAAAAAAAs0/Gz8Vtpev66Q6AdtiE-Yy4NT-l1MEgXN3wCLcBGAsYHQ/s16000/the_broker_creative.png" group-title="Bangla Series",The Broker S01 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/The%20Broker%202021%20Bengali%201080P%20ZEE5%20WEB-DL%20H264%20AAC%202.0%20-%20%5BHasan%5D.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://i.ibb.co/rZcYcrw/ss.jpg" group-title="Bangla Series",Twin Returns S01 (2021)
-http://10.10.10.10/FTP1/Bangla%20Web%20Series/Twin%20Returns%202021%20Bengali%20S01%20Binge%20Originals%201080p%20WEB-DL%20x264%20AAC.mp4
-
-..........................................................Series-Hindi......................................................................
 
 
 
-..........................................................Series-English......................................................................
+
+
+                                                                        ***** FM Radio *****
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFnUmxM.png" group-title="FM Radio", ABC Radio (89.2)
+http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (88.8)
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YIIvblK.png" group-title="FM Radio", Big FM (92.7)
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+#EXTINF:-1 tvg-logo="https://i.imgur.com/meR71iP.png" group-title="FM Radio", Colours FM (101.6)
+http://45.64.135.88:8000/stream1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tymBHqQ.png" group-title="FM Radio", Dhaka FM (90.4)
+http://118.179.219.244:8000/;stream.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgjOpqz.png" group-title="FM Radio", Jago FM (94.4)
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ocVszJG.png" group-title="FM Radio", Peoples Radio (91.6)
+http://s3.myradiostream.com:14498/;stream.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RSoi6ue.png" group-title="FM Radio", Radio Foorti (88.0)
+https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ni355Vy.png" group-title="FM Radio", Radio Amar (88.4)
+http://118.179.215.45:8000/;stream/1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0HrUDOH.png" group-title="FM Radio", Radio Today (89.6)
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dbNaIjP.png" group-title="FM Radio", Radio Dhoni (91.2)
+http://103.148.172.30:1020/;stream.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UDrB3Z9.png" group-title="FM Radio", Radio Shadhin (92.4)
+http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oCqZq70.png" group-title="FM Radio", Radio Mirchi (98.3)
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FtO5Esl.png" group-title="FM Radio", Radio Ekattor (98.4)
+http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SzLPkH4.png" group-title="FM Radio", Spice FM (96.4)
+http://162.254.149.187:9300/;stream.mp3
