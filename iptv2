@@ -111,6 +111,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/gtv.jpg" group-title="Bangla", Gazi TV
 http://103.55.144.46/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV
+http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV
+http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png",SangeetBangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
@@ -281,6 +285,8 @@ http://103.109.56.116/live/skyfeed1001/index.m3u8
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/tsports.jpg" group-title="Sports", T Sports HD
 http://103.55.144.46/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/tsports.jpg" group-title="Sports", T Sports HD
+http://10.16.100.245/hindi/Tsport$local.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Star Sports 2 HD
 http://103.55.144.46:80/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Star Sports Select 1 HD
