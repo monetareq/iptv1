@@ -347,3 +347,11 @@ http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="English", HBO
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+
+
+
+
+###########################################MOVIES############################################################################
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1NmU5NjAtOGU4NC00MTMzLWJjYmYtZmEwMDU1MmE5YTFlXkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_.jpg" group-title="Movie", KAAGAZ
+http://10.16.100.206/ftps3/ftps3d2/Movies/Hindi/Kaagaz%20(2021)%201080p%20WEBDL.mkv
