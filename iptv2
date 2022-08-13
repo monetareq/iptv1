@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla", Star Jalsa SD 01
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla", STAR JALSHA HD
-http://103.55.144.46/hls/starjalsha.m3u8
+ http://dangguli.live:8080/StarJalshaHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bangla-logo.png" group-title="Bangla", Zee Bangla SD 01
 http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bangla-logo.png" group-title="Bangla", Zee Bangla HD
-http://103.55.144.46/hls/zeebanglahd.m3u8
+http://dangguli.live:8080/ZeeBanglaHD/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png",Sony SD
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
@@ -15,13 +15,13 @@ http://103.55.144.46/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Hindi", Star Plus
 http://103.55.144.46/hls/starplus.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://103.55.144.46/img/Sony_Aath.png",Sony AATH
-http://103.55.144.46/hls/Sony_Aath.m3u8
+http://dangguli.live:8080/SonyAath/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://103.55.144.46/img/jalsha_movies.jpg",STAR JALSHA MOVIES HD
 http://103.55.144.46/hls/jalshamovies.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://103.55.144.46/img/Zee_Bangla_Cinema.jpg",Zee Bangla Cinema
-http://103.55.144.46/hls/zee-bangla-cinema.m3u8
+http://dangguli.live:8080/ZeeBanglaCinema/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://103.55.144.46/img/colorsbangla.jpg",Colors Bangla HD
-http://103.55.144.46/hls/colorsbangla.m3u8
+ http://dangguli.live:8080/ColorsBanglaHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/andpictures-hd.jpg" group-title="Hindi", Andpictures HD
 http://103.55.144.46/hls/andpictures.m3u8
@@ -284,7 +284,7 @@ http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Star Sports 1
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/tsports.jpg" group-title="Sports", T Sports HD
-http://103.55.144.46/hls/t-sports.m3u8
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/tsports.jpg" group-title="Sports", T Sports HD
 http://10.16.100.245/hindi/Tsport$local.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Star Sports 2 HD
@@ -300,9 +300,9 @@ http://103.55.144.46/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", SONY Ten 3 Hindi
 http://103.55.144.46/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", PTV Sports
-http://103.55.144.46/hls/ptv.m3u8
+http://103.24.96.74/stream/ptvsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Ten Sports
-http://103.55.144.46/hls/ten.m3u8
+http://dangguli.live:8080/TenSports/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", FOX Sports News HD
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Red Bull TV Sports
