@@ -1,13 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla", Star Jalsa SD 01
-http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla", STAR JALSHA HD
- http://dangguli.live:8080/StarJalshaHD/index.m3u8
+http://172.16.29.250/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bangla-logo.png" group-title="Bangla", Zee Bangla SD 01
-http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bangla-logo.png" group-title="Bangla", Zee Bangla HD
-http://dangguli.live:8080/ZeeBanglaHD/index.m3u8
+http://172.16.29.250/hls/zeebanglahd.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png",Sony SD
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
